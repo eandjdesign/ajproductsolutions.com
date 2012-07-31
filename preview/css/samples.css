@@ -1,0 +1,39 @@
+.clear_content {
+	clear:both;
+}
+.thirds {
+	width:31%;
+	float:left;
+}
+.half {
+	width:43%;
+	float:left;
+}
+.thirds h2, .thirds ul, .half h2, .half ul {
+	margin:0;
+	padding:0;
+}
+.thirds ul, .half ul {
+	margin-left:5px;
+	font-size:12px;
+}
+.thirds li {
+	list-style:none;
+	line-height:1.5em;
+}
+.half li {
+	list-style:none;
+	line-height:1.3em;
+}
+.samplescontent {
+	margin:125px auto 0 auto;
+}
+.samplescontent h2 {
+	text-align:center;
+}
+.samplescontent div {
+	margin:0 0 0 30px;
+}
+.hideable {
+	display:none;
+}

@@ -1,0 +1,176 @@
+/* CSS Document */
+
+	
+.hide { display:none;}
+
+body	{
+	padding: 0;
+	background-color: #fff;
+	}
+		
+a:link {
+	text-decoration : none;
+	color: #066;
+	background: transparent;
+    }
+
+a:visited {
+	text-decoration : none;
+	color: #099;
+	background: transparent;
+    }
+
+a:hover {
+	text-decoration : none ;
+	background: transparent;
+    }
+
+a:active {
+	text-decoration : none;
+	color: #000;
+	background: transparent;
+    }
+
+p, td, li, ul, ol, h0, h1, h2, h3, h4, h5, h6	{
+		font-family: Arial, Helvetica, sans-serif;
+		}
+
+p a:link, p a:visited	{
+	border-bottom: 1px dotted #066;   
+	}
+	
+p a:hover {
+	border-bottom: 1px dotted #fff;   
+	}
+	
+h0       {
+        font-size: small;
+        }
+	
+h1	{
+	font-size: 1.15em;
+	font-weight: normal;
+	}
+
+h1 a:link, h1 a:visited	{
+	border-bottom: 1px dotted #066;   
+	}
+	
+h1 a:hover {
+	border-bottom: 1px dotted #fff;   
+	}
+	
+
+h2	{
+	color:#066  ; 
+	font-size: 1em;
+	font-weight: bold;
+	margin-bottom: 0.25em;
+	margin-top: 0;
+	}
+	
+h3	{
+	color:#066  ; 
+	font-size: .5em;
+		}
+	
+h4	{
+	color:#066  ; 
+	font-size: .75em;
+	font-weight: bold;
+	margin-bottom: 0.25em;
+	margin-top: 0.5em;
+	}
+	
+h5	{
+	color:#000  ; 
+	font-size: .75em;
+	font-weight: normal;
+	line-height: 1.0;
+	margin-bottom: 0.25em;
+	margin-top: 0.5em;
+		}
+		
+html p	{
+	margin-top: 0;
+	margin-bottom: 1em;
+	text-align: left;
+	font-size:  0.75em;
+	line-height: 1.5;
+	}
+	
+.h1color1 { 
+	color:#066  ; 
+	}
+	
+.pheading { 
+	font-style:italic;
+	color:#066  ; 
+	}
+
+	
+/*structure*/ 
+
+div#container {
+    width: 801px;
+    height:701px; /* need this because the box will collapse because both of the content divs are floated out of the "flow" */
+    padding: 0;
+    margin: 0;
+    background: #fff url(../img/new_bg1_long_sub.gif) no-repeat top left; 
+}
+
+
+div#nav {
+    padding-top: 17px;
+    padding-left: 1px;
+}
+
+div#footer {
+    width:600px;
+    margin-top:0px;
+    padding-left:600px;
+    padding-top:85px;
+}  
+   
+	div#relativizer {
+	position:relative;
+	left: 5px;
+
+}
+
+div#leftcontent {
+    width:200px;
+    padding:10px;
+}
+
+div#introcontent {
+    width:500px;
+    margin-top:120px;
+    position:absolute;
+    left:250px;
+    top:0px;
+}
+
+ div#picturecontent {
+    width:500px;
+    margin-top:150px;
+    position:absolute;
+    left:260px;
+	top:0px;  
+
+}
+ div#rightcontent {
+    width:500px;
+	margin-top:70px;
+    position:absolute; 
+	left:250px;
+    top:2px; 
+}
+
+ul {
+	list-style-type: square;
+	list-style-image:  url(../img/bullet.gif);
+	list-style-position: outside;
+	margin:10px; 
+	padding:5px
+	}
