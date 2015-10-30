@@ -1,0 +1,33 @@
+// ------------------------------------
+// Variables
+// ------------------------------------
+$white:        #ffffff;
+$lighter-grey: #f7f7f7;
+$link:         #67c6c4;
+$color1:       #3e4949;
+$color3:       #2b9192;
+$black:        #000000;
+
+
+$gutter: 20px;
+
+
+
+// ------------------------------------
+// Susy Gridding
+// ------------------------------------
+$susy: (
+  columns: 12,
+  gutters: 1/4,
+  math: fluid,
+  output: float,
+  gutter-position: after,
+  container: 1400px,
+  global-box-sizing: border-box,
+  debug: (
+    image: show,
+    color: blue,
+    output: overlay,
+    toggle: bottom right,
+  ),
+);

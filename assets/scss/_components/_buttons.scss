@@ -1,0 +1,41 @@
+// ------------------------------------
+// Button styles
+// ------------------------------------
+.btn-outline {
+  border: 2px solid $link;
+  background-color: transparent;
+  border-radius: 50px;
+  padding: 5px 10px;
+  display: inline-block;
+  text-align: center;
+
+}
+.btn-rounded {}
+.btn-translucent {
+  background-color: transparentize($black, .5);
+}
+.btn-primary {}
+.btn-secondary {}
+
+
+
+/*
+
+button types:
+- outline
+  - white
+  - rounded
+  - seafoam
+
+- rounded
+  - outline
+  - x- solid/translucent
+
+*/
+
+/*
+input types:
+
+- default
+- rounded
+*/

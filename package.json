@@ -1,0 +1,27 @@
+{
+  "name": "ajproductsolutions.com",
+  "version": "1.0.0",
+  "description": "Website for AJ Product Solutions",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eandjdesign/ajproductsolutions.com.git"
+  },
+  "keywords": [
+    "client"
+  ],
+  "author": "Eric Ritchey & James Carleton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eandjdesign/ajproductsolutions.com/issues"
+  },
+  "homepage": "https://github.com/eandjdesign/ajproductsolutions.com#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
