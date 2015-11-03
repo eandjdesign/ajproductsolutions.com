@@ -1,13 +1,17 @@
 // ------------------------------------
 // Variables
 // ------------------------------------
-$white:        #ffffff;
-$lighter-grey: #f7f7f7;
-$link:         #67c6c4;
-$color1:       #3e4949;
-$color3:       #2b9192;
-$black:        #000000;
 
+$seafoam:      rgba(103, 198, 196, 1);  // #67c6c4
+$white:        rgba(255, 255, 255, 1);  // #ffffff
+$lighter-grey: rgba(247, 247, 247, 1);  // #f7f7f7
+$light-grey:   rgba(241, 241, 241, 1);  // #f1f1f1
+$grey-green:   rgba(62, 73, 73, 1);     // #3e4949
+$black:        rgba(0, 0, 0, 1);        // #000000
+
+$photo-filter: transparentize($grey-green, .7);
+$link:         $seafoam;
+$color1:       $grey-green;
 
 $gutter: 20px;
 
