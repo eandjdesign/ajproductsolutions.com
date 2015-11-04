@@ -19,9 +19,11 @@
     "url": "https://github.com/eandjdesign/ajproductsolutions.com/issues"
   },
   "homepage": "https://github.com/eandjdesign/ajproductsolutions.com#readme",
-  "devDependencies": {
+  "dependencies": {
     "gulp": "^3.9.0",
     "gulp-sass": "^2.0.4",
-    "gulp-sourcemaps": "^1.6.0"
+    "gulp-sourcemaps": "^1.6.0",
+    "breakpoint-sass": "^2.6.1",
+    "susy": "^2.2.6"
   }
 }
