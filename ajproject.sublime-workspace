@@ -1,0 +1,1990 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"column",
+				"column-width"
+			],
+			[
+				"source",
+				"sourcemaps"
+			],
+			[
+				"err",
+				"error-color-background"
+			],
+			[
+				"error",
+				"error-color-text"
+			],
+			[
+				"warnin",
+				"warning-color-background"
+			],
+			[
+				"warn",
+				"warning-color-text"
+			],
+			[
+				"succ",
+				"success-color-background"
+			],
+			[
+				"success",
+				"success-color-text"
+			],
+			[
+				"info",
+				"info-color-background"
+			],
+			[
+				"is",
+				"is_tesla_options"
+			],
+			[
+				"fade-out",
+				"fade-out-speed"
+			],
+			[
+				"seven",
+				"seven_kHw_description"
+			],
+			[
+				"transparen",
+				"transparency-color"
+			],
+			[
+				"fade-in",
+				"fade-in-speed"
+			],
+			[
+				"spinner",
+				"spinner-speed"
+			],
+			[
+				"tran",
+				"transparency-number"
+			],
+			[
+				"transpare",
+				"transparency-number"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"list-styl",
+				"list-style-type"
+			],
+			[
+				"curr",
+				"current_country"
+			],
+			[
+				"curren",
+				"current_country"
+			],
+			[
+				"code",
+				"code_files_location"
+			],
+			[
+				"defaul",
+				"default_files_location"
+			],
+			[
+				"current",
+				"current_locale"
+			],
+			[
+				"solar",
+				"caption--solar-panels"
+			],
+			[
+				"mobile",
+				"base-mobile-reset"
+			],
+			[
+				"image",
+				"image-url"
+			],
+			[
+				"previou",
+				"previousSlide"
+			],
+			[
+				"sele",
+				"selectedSlide"
+			],
+			[
+				"nocar",
+				"no_car_data"
+			],
+			[
+				"form-ite",
+				"form-item-country"
+			],
+			[
+				"mytes",
+				"mytesla-dashboard"
+			],
+			[
+				"current_",
+				"current_country"
+			],
+			[
+				"curre",
+				"current_locale"
+			],
+			[
+				"contact",
+				"contact_preferences"
+			],
+			[
+				"cach",
+				"cachebusting_variable"
+			],
+			[
+				"local",
+				"locale-japan"
+			],
+			[
+				"with",
+				"without-keyline"
+			],
+			[
+				"section-",
+				"section-title"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"secit",
+				"section-title"
+			],
+			[
+				"nav",
+				"nav-link"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"inlni",
+				"inline-block"
+			],
+			[
+				"bloc",
+				"block-content"
+			],
+			[
+				"errro",
+				"error_log"
+			],
+			[
+				"carerejs",
+				"careersJson"
+			],
+			[
+				"sectin",
+				"section-image"
+			],
+			[
+				"backgrond",
+				"background-color"
+			],
+			[
+				"small",
+				"small-inset-copy-description"
+			],
+			[
+				"inset",
+				"small-inset-copy"
+			],
+			[
+				"setio",
+				"section-image"
+			],
+			[
+				"lives",
+				"livestream-container"
+			],
+			[
+				"grey",
+				"grey-background-color-light"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"background",
+				"grey-background-color-light"
+			],
+			[
+				"reser",
+				"reserve_url_enabled_for"
+			],
+			[
+				"base",
+				"base-mobile-reset"
+			],
+			[
+				"request_",
+				"request_path	request_path"
+			],
+			[
+				"job",
+				"jobId"
+			],
+			[
+				"jbo",
+				"jobId"
+			],
+			[
+				"facet-clear",
+				"facet-clear--input"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"searchface",
+				"search-facet--filter-by"
+			],
+			[
+				"gre",
+				"grey-background-color-light"
+			],
+			[
+				"grey-",
+				"grey-9"
+			],
+			[
+				"font",
+				"fontsize-rem"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"tesla",
+				"tesla-primary"
+			],
+			[
+				"f-",
+				"fontstack-secondary"
+			],
+			[
+				"sub",
+				"subhero-secondary"
+			],
+			[
+				"subher",
+				"subhero-primary"
+			],
+			[
+				"bottom",
+				"bottom_price"
+			],
+			[
+				"MOb",
+				"mobile-only"
+			],
+			[
+				"trans",
+				"transparentize"
+			],
+			[
+				"account",
+				"account-userdetails"
+			],
+			[
+				"varian",
+				"variant-price"
+			],
+			[
+				"high",
+				"highlight-out"
+			],
+			[
+				"form-typ",
+				"form-type-select"
+			],
+			[
+				"highlight",
+				"highlight-color"
+			],
+			[
+				"form-iteccexp",
+				"form-item-cc-expirationYear"
+			],
+			[
+				"form-itemcc",
+				"form-item-cc-ccvNumber"
+			],
+			[
+				"expi",
+				"expirationYear"
+			],
+			[
+				"reservations",
+				"locales_with_reservations_enabled"
+			],
+			[
+				"reservation",
+				"locales_with_reservations_enabled"
+			],
+			[
+				"delivers",
+				"deliveries_begin_2016"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"navtra",
+				"nav-trail--link"
+			],
+			[
+				"sm",
+				"small-desktop"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"grey-b",
+				"grey-background-color"
+			],
+			[
+				"form-sele",
+				"form-select-overlay"
+			],
+			[
+				"postal",
+				"postalcode_valid"
+			],
+			[
+				"her",
+				"hero-container"
+			],
+			[
+				"for",
+				"forum-posts"
+			],
+			[
+				"gutter",
+				"gutter-width"
+			],
+			[
+				"mobil",
+				"mobile-only"
+			],
+			[
+				"fonts-",
+				"fontsize-rem"
+			],
+			[
+				"bakc",
+				"background-position"
+			],
+			[
+				"confi",
+				"config_form"
+			],
+			[
+				"your-cur",
+				"your-current-industry"
+			],
+			[
+				"charge",
+				"chargeCardSurvey"
+			],
+			[
+				"fieldst",
+				"fields_string"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"folder",
+				"folder_exclude_patterns"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"using",
+				"usingGridBasedSprite"
+			],
+			[
+				"spacer",
+				"climate-spacer"
+			],
+			[
+				"spi",
+				"spinner-number"
+			],
+			[
+				"clim",
+				"climate-container"
+			],
+			[
+				"range",
+				"range-controls"
+			],
+			[
+				"selected",
+				"selected-highlight"
+			],
+			[
+				"section",
+				"section-range-calculator"
+			],
+			[
+				"seve",
+				"seven_kHw_price"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"style",
+				"style	Tag"
+			],
+			[
+				"nodequ",
+				"nodequeue1"
+			],
+			[
+				"pagerl",
+				"pager-load-more_link"
+			],
+			[
+				"pager-load",
+				"pager-load-more_link"
+			],
+			[
+				"dim",
+				"dimension_top"
+			],
+			[
+				"dimen",
+				"dimension_top"
+			],
+			[
+				"dime",
+				"dimensions_imperial"
+			],
+			[
+				"weigh",
+				"weight_imperial"
+			],
+			[
+				"temp",
+				"temp_imperial"
+			],
+			[
+				"tem",
+				"temp_metric"
+			],
+			[
+				"bad",
+				"badge-motortype"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"get_defin",
+				"get_defined_vars"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 559,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/scss/_library/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 1622,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5552,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 252.0,
+		"last_filter": "syntaxjs",
+		"selected_items":
+		[
+			[
+				"syntaxjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"theme",
+				"Snippet: hook_theme"
+			],
+			[
+				"gitd",
+				"Git: Diff"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sola",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"solar",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"syntax bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"insa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sol",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"subli",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"s",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"solari",
+				"SolarizedToggle: Toggle"
+			],
+			[
+				"csslint",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/eritchey/bin/ejd-clients/ajproductsolutions.com",
+		"/Users/eritchey/bin/ejd-clients/ajproductsolutions.com/assets",
+		"/Users/eritchey/bin/ejd-clients/ajproductsolutions.com/assets/scss",
+		"/Users/eritchey/bin/ejd-clients/ajproductsolutions.com/assets/scss/_library"
+	],
+	"file_history":
+	[
+		"/Users/eritchey/bin/ejd-clients/ajproductsolutions.com/assets/scss/_variables.scss",
+		"/Users/eritchey/bin/ejd-clients/ajproductsolutions.com/package.json",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_asset-modal.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_particles/_extends.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/user/profile/base.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/servicesignup/servicesignup.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/what-to-expect/what-to-expect.scss",
+		"/Users/eritchey/bin/tesla/6/sites/all/themes/tesla/goelectric/src/css/saving-title.css",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/true-cost-of-ownership/true-cost-of-ownership.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/tco_overlay/tco_overlay.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/service/service.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/preowned/preowned.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/powerwall/base.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/powerwall/_progress-bars.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/own/testdrive/event/_wildcard_/rsvp.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_services.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-pay-now.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_payment.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_footer.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/_mixins.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/models/models.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/homepage2/homepage2.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/goelectric/ge-savings-calculator.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/firstresponders/firstresponders.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/findus_shared/findus.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/financing/financing.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/charging_shared/style.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/charging/charging.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/admin.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_final_payment.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_pay-now.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/order/paypal-iframe/paypal.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_body.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_for-shame.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_header.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/shop/paypal/shop-paypal.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_particles/extras/_dev-questions.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/admin/admin_configurator/admin_configurator.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/admin/add_to_inventory/add_to_inventory.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/admin/_admin_search_panel.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_particles/_compass-overrides.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_unresponsive.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_styleguide.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_particles/components/_spinner.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/models-charging/charging.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_particles/components/_forms.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_awards-shelf.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_particles/_mixins.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/careers/university/university.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_popover.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/supercharger/supercharger.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_footer.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_flexslider.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_blog-meta.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/careers/vets/vets.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_particles/particles.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_particles/_variables.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/styles.scss",
+		"/Users/eritchey/bin/tesla/7/package.json",
+		"/Users/eritchey/bin/tesla/7/gulpfile.js",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_particles/components/_buttons.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_search.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_sidebar.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_sticky-menu.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_[path_alias]/[path_alias].scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_comments.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_common-elements.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_gallery-slides.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_helpers.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_layout.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_locale-modal.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_nav-billboard.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_navigation.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_typography.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/_vehicle-badges__common.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/about/about.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/about/legal/legal.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/billionmiles/billionmiles.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/careers/careers.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/careers/job/detail.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/chargecard/chargecard.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/contact/contact.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/corporate/corporate.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/creditapp/credit_app.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/destination-charging/destination-charging.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/gigafactory/gigafactory.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/homepage/homepage.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/leasing/leasing.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/livestream/livestream.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/modals/powerwall-modals.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/models/_models-hero-nav.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/models/_range-calculator.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/models/drive/test_drive_standalone_page.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/models/guide/walkthrough-guide.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/models/preowned/_wildcard_/preowned-details-page.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/models/preowned/callback/request_callback_standalone_page.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/models/preowned/preowned-list-page.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/modelx/modelx.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_accessory-shipping.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_charging-installation.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_delivery-pickup.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_mytesla-dashboard.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_payment-edit.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_registration-edit.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/_registration-view.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-badges.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-documents.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-global.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-hero.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-registration.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-tradein.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_page.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/order/confirm/order_confirm.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/order/order.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/order/payment_methods.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/powerpack/confirm/confirm.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/powerpack/reserve/reserve.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/powerwall/_powerwall-standalone-forms.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/shop/_shop-hero-nav.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/shop/category/category.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/shop/checkout/shop-checkout.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/shop/confirmation/shop-confirmation.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/shop/details/chart-sizing.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/shop/details/shop-details.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/shop/gear_shop.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/shop/shop.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/support/support.scss",
+		"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/tradein/request_callback_standalone_page.scss"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 177.0,
+		"where_history":
+		[
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss, -*/_compass-overrides.scss, -*/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/admin/*",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss, -*/_compass-overrides.scss, -*/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/admin/admin*",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss, -*/_compass-overrides.scss, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/admin/admin*",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss, -*/_compass-overrides.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.php",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.yaml",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.php",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, ",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.php",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, ",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.php",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, ",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.js, MyTeslaDashboard.BaseBlock.class.js",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.js",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all",
+			"/Users/eritchey/bin/tesla/6",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, -*.css, -*.scssc",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, -*.css, -*.scssc, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, -*.css, -*.scssc",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, -*.css, -*.scssc, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, -*.css, -*.scssc",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, -*.css, -*.scssc, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, -*.css, -*.scssc",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, -*.css, -*.scssc, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, -*.css, -*.scssc",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, -*.css",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/modules/custom/tesla_careers",
+			"",
+			"*.scss",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/modules/custom/tesla_careers",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/modules/custom/tesla_careers",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/modules/custom/tesla_careers, -*.js",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/modules/custom/tesla_careers",
+			"*.php",
+			".php",
+			"",
+			"*.scss",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme,",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme, -*.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, -*.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla",
+			"*.scss",
+			"",
+			"*/Users/eritchey/bin/tesla/7/sites_d7/*",
+			"/Users/eritchey/bin/tesla/7/sites_d7/*",
+			"",
+			"-*.scss, */Users/eritchey/bin/tesla/6/*",
+			"-*.scss",
+			"",
+			"*.css",
+			"",
+			"*.js",
+			"",
+			"*.scss",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/modules/custom/tesla_mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/js/mytesla",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/modules/custom/tesla_mytesla",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/modules",
+			"*.css",
+			"*.scss",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla, /Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/scss/mytesla",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme/includes/mytesla",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, *.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all",
+			"/Users/eritchey/bin/tesla/7/",
+			"/Users/eritchey/bin/tesla/6/sites/all",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, -*.scss, -*.css, -*.js",
+			"-*.scss, -*.css, -*.js",
+			"-*.scss, -*.css",
+			"",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme, -*.scssc, -*.css",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme, -*.scssc",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/themes/custom/tesla_theme",
+			"/Users/eritchey/bin/tesla/7",
+			"/Users/eritchey/bin/tesla/6/sites/all",
+			"",
+			"*.scss, /Users/eritchey/bin/tesla/7",
+			"*.scss, /Users/eritchey/bin/tesla/",
+			"*.scss, /Users/eritchey/bin/tesla/6",
+			"",
+			"/Users/eritchey/bin/tesla/6/sites/all",
+			"*.scss",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/modules/custom/, -/Users/eritchey/bin/tesla/7/sites_d7/all/modules/custom/tesla_configurator/*",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all/modules/custom/",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, -*.scssc, -*.css",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all, -*.scssc",
+			"/Users/eritchey/bin/tesla/7/sites_d7/all",
+			"D7",
+			"D7, *.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"columns",
+			"span-column",
+			"span-columns",
+			"box-shadow:",
+			"@include box-shadow(",
+			"box-shadow",
+			"single-transition",
+			"mixin single-transition",
+			"single-transition",
+			"@include box-shadow(inset",
+			"at-breakpoint",
+			"\"",
+			"<?",
+			"No",
+			"<?",
+			"17",
+			"on",
+			"show on map",
+			"date-date",
+			"--select--",
+			"hidden",
+			"no model s",
+			"month",
+			"date of birth",
+			"ownerDriversLicenseStateProvinceOptions",
+			"owner_driver_province_options",
+			"clearfix",
+			"no model s found",
+			"page-models",
+			"/**",
+			");\n",
+			"reset",
+			"<",
+			"\n        ",
+			"Needs minor styling attention.",
+			"pickupLocationAddress",
+			"pickupMapUrl",
+			"pickupLocationAddress",
+			"WebID Solutions",
+			"action=\"/webid/connect\"",
+			"block-content",
+			"form-alternate",
+			"column",
+			"id=\"finalprice\"",
+			"table-data",
+			"<div class=\"section-description\"",
+			"Missing graphics seen on D6, which are shown side-by-side instead of stacked.",
+			"alternating-rows-and-columns",
+			".fade-out",
+			"getloader",
+			"fade",
+			"fade-out",
+			".fade-in",
+			".section-loader",
+			"country",
+			"capacity",
+			"solar_powered_and_complete_circuit",
+			"solar",
+			"complete_the_circuit_intro_copy",
+			"current_country",
+			"seven_kHw_price",
+			"seven",
+			"seven_kHw_description",
+			"seven_kHw_capacity",
+			"price",
+			"price<?php\n\n    // include_once('sites/all/themes/custom/tesla_theme/includes/powerwall/powerwall.html.php');\n    // Page constants and variables\n    // -------------------------------------------------------------------------------------------\n    $current_region       = tesla_super_region_here();\n    $current_country      = tesla_get_country();\n    $current_country_name = tesla_get_country_name();\n    $current_locale       = tesla_get_locale();\n\n    if ($current_locale == 'en_GB') {\n        $current_country_name = 'the ' . $current_country_name;\n    }\n\n    $powerwall_theme_images_path   = \"/tesla_theme/assets/img/powerwall/\";\n    $powerwall_default_images_path = \"/sites/default/files/images/powerwall/\";\n\n    $cachebuster = \"20150603\";\n\n    // Specs variable arrays for localization-based changes\n    // -------------------------------------------------------------------------------------------\n    // List of currently translated locales that need to have more generic text than what is provided.\n    $currently_translated_pages = array(\n                                        'da_DK',\n                                        'de_AT',\n                                        'de_DE',\n                                        'de_CH',\n                                        'en_AU',\n                                        'en_EU',\n                                        'en_HK',\n                                        'fi_FI',\n                                        'fr_BE',\n                                        'fr_CH',\n                                        'fr_FR',\n                                        'it_CH',\n                                        'it_IT',\n                                        'ja_JP',\n                                        'no_NO',\n                                        'sv_SE');\n\n    // These locales do not want farenheit to be displayed at all\n    $eliminate_farenheit_from = array(\n                                      'en_AU',\n                                      'en_CA',\n                                      'en_EU',\n                                      'en_GB',\n                                      'en_HK');\n\n    // These locales do not want lbs to be displayed at all\n    $eliminate_pounds_from      = array('en_GB');\n\n    // These locales want to have the battery pack displayed in smallest to largest, not largest to smallest\n    $reverse_order_of_batteries = array(\n                                        'en_AU',\n                                        'en_GB',\n                                        'de_AT',\n                                        'de_CH',\n                                        'de_DE',\n                                        'da_DK',\n                                        'it_CH',\n                                        'it_IT',\n                                        'fr_BE',\n                                        'fr_CH',\n                                        'fr_FR');\n\n    // These locales get different solar powered content based on their locale\n    $solar_powered_and_complete_circuit = array(\n                                                'de_AT',\n                                                'de_CH',\n                                                'de_DE',\n                                                'da_DK',\n                                                'en_AU',\n                                                'en_GB',\n                                                'fr_CH',\n                                                'it_CH',\n                                                'it_IT');\n\n    // Generic Deliveries Text\n    $generic_deliveries_available_array = array(\n                                                'en_AU',\n                                                'fr_CH',\n                                                'it_CH');\n\n\n    // Late Deliveries Text\n    $late_deliveries_available_array = array(\n                                             'fr_FR',\n                                             'fr_BE',\n                                             'it_IT',\n                                             'nl_NL',\n                                             'nl_BE');\n\n    // Deliveries in 2016\n    $deliveries_begin_2016 = array('da_DK',\n                                   'no_NO',\n                                   'sv_SE',\n                                   'fi_FI',\n                                   'en_EU',\n                                   'en_HK',\n                                   'ja_JP');\n\n    // Show Prices Text\n    $show_prices_array = array('en_US',\n                               'de_DE',\n                               'nl_BE',\n                               'fr_BE',\n                               'de_DE',\n                               'fr_FR',\n                               'it_IT',\n                               'nl_NL',\n                               'de_AT',\n                               'fi_FI');\n\n    // Show Prices Text\n    $show_VAT_disclaimer = array('de_DE',\n                                 'nl_BE',\n                                 'fr_BE',\n                                 'de_DE',\n                                 'fr_FR',\n                                 'it_IT',\n                                 'nl_NL',\n                                 'de_AT',\n                                 'fi_FI');\n\n    // Locales that are enabled for taking reservations\n    $locales_with_reservations_enabled = array();\n    // $locales_with_reservations_enabled = array('en_US', 'en_CA');\n\n    // Powerwall urls\n    $url_careers = 'careers';\n\n    // Powerwall Specs image\n    // -------------------------------------------------------------------------------------------\n    switch ($current_locale) {\n        case 'da':    // Danish\n            $i18n_image_source = 'battery-specs-danish.jpg';\n            break;\n        case 'no':    // Norwegian\n            $i18n_image_source = 'battery-specs-norwegian.jpg';\n            break;\n        case 'sv_SE': // Sweden\n            $i18n_image_source = 'battery-specs-swedish.jpg';\n            break;\n        case 'fi_FI': // Finnish\n            $i18n_image_source = 'battery-specs-finnish.jpg';\n            break;\n        case 'zh_CN': // China\n            $i18n_image_source = 'battery-specs-chinese.jpg';\n            break;\n        case 'zh_HK': // Hong Kong\n            $i18n_image_source = 'battery-specs-traditional.jpg';\n            break;\n        case 'ja_JP': // Japan\n            $i18n_image_source = 'battery-specs-japanese.jpg';\n            $url_careers = 'https://chc.tbe.taleo.net/chc01/ats/careers/requisition.jsp?org=TESLA&cws=1&rid=27656';\n            break;\n        case 'en':    // Imperial\n        case 'en_US':\n            $i18n_image_source = 'battery-specs-imperial.jpg';\n            break;\n        case 'nl':    // Dutch\n        case 'nl_NL':\n        case 'nl_BE':\n            $i18n_image_source = 'battery-specs-dutch.jpg';\n            break;\n        case 'it':    // Italian\n        case 'it_CH':\n        case 'it_IT':\n            $i18n_image_source = 'battery-specs-italian.jpg';\n            break;\n        case 'de':    // German\n        case 'de_AT':\n        case 'de_CH':\n        case 'de_DE':\n            $i18n_image_source = 'battery-specs-german.jpg';\n            break;\n        case 'fr':    // French\n        case 'fr_CA':\n        case 'fr_CH':\n        case 'fr_BE':\n        case 'fr_FR':\n            $i18n_image_source = 'battery-specs-french.jpg';\n            break;\n        case 'en_CA': // Metric\n        case 'en_EU':\n        case 'en_AU':\n        case 'en_GB':\n        case 'en_HK':\n        default:\n            $i18n_image_source = 'battery-specs-metric.jpg';\n            break;\n    }\n    $i18n_image_source = $powerwall_default_images_path . $i18n_image_source . '?' . $cachebuster;\n\n\n    // Powerwall kWh, price, description, weight, temp, and dimensions logic\n    // -------------------------------------------------------------------------------------------\n    // These variables extract away the content from the markup and logic. If content editors ever\n    // need to change the information as part of the battery specs as it relates to price, kWh, and\n    // description the change only needs to be made here. The code will take care of which one is\n    // placed on top and which is placed on bottom.\n    // -------------------------------------------------------------------------------------------\n    switch ($current_locale) {\n        case 'nl_BE':\n        case 'fr_BE':\n        case 'nl_NL':\n            $ten_kHw_price   = 0;\n            $seven_kHw_price = 3675;\n            break;\n        case 'de_DE':\n            $ten_kHw_price   = 0;\n            $seven_kHw_price = 3615;\n            break;\n        case 'fr_FR':\n            $ten_kHw_price   = 0;\n            $seven_kHw_price = 3645;\n            break;\n        case 'it_IT':\n            $ten_kHw_price   = 0;\n            $seven_kHw_price = 3705;\n            break;\n        case 'de_AT':\n            $ten_kHw_price   = 0;\n            $seven_kHw_price = 3645;\n            break;\n        case 'fi_FI':\n            $ten_kHw_price   = 0;\n            $seven_kHw_price = 3765;\n            break;\n\n        default:\n            $ten_kHw_price   = 3500; // Please leave out comma; code below will convert it properly\n            $seven_kHw_price = 3000; // Please leave out comma; code below will convert it properly\n            break;\n    }\n    $ten_kHw_capacity    = '10';\n    $ten_kHw_description = 'For backup applications';\n\n    $seven_kHw_capacity    = '7';\n    $seven_kHw_description = 'For daily cycle applications';\n\n    $temp_metric   = '-20&deg;C to 43&deg;C';\n    $temp_imperial = '-4&deg;F to 110&deg;F';\n\n    $weight_metric = '100 kg';\n    $weight_imperial = '220 lbs';\n\n    $dimensions_imperial = '51.2&rdquo; x 33.9&rdquo; x 7.1&rdquo;';\n    $dimensions_metric   = '1300 mm x 860 mm x 180 mm';\n\n    if(in_array($current_locale, $locales_with_reservations_enabled)) {\n        $tesla_energy_or_powerpack = \"Powerpack\";\n        $button_label_text = \"Reserve Powerwall\";\n    }\n    else {\n        $tesla_energy_or_powerpack = \"Tesla Energy\";\n        $button_label_text = \"Reserve\";\n    }\n    $powerpack_button_label_text = \"Reserve Powerpack\";\n\n\n    // When Deliveries are available differs based on locale.\n    if ($current_locale == 'en_GB') {\n        $deliveries_available_text = 'Deliveries begin in 2016';\n        $reserve_yours_intro_text  = \"Powerwall begins shipping in 2016 and requires installation by a trained electrician. Reserve yours today and you'll be contacted in early 2016 to arrange installation.\";\n    }\n    elseif (in_array($current_locale, $generic_deliveries_available_array)) {\n        $deliveries_available_text = 'Deliveries begin in late 2015';\n        $reserve_yours_intro_text  = \"Powerwall begins shipping in late 2015 and requires installation by a trained electrician. Reserve yours today and you'll be contacted to arrange installation.\";\n    }\n    elseif (in_array($current_locale, $late_deliveries_available_array)) {\n        $deliveries_available_text = 'Deliveries begin in early 2016';\n        $reserve_yours_intro_text  = \"Powerwall begins shipping in early 2016 and requires installation by a trained electrician. Reserve yours today and you'll be contacted in early 2016 to arrange installation.\";\n    }\n    elseif (in_array($current_locale, $deliveries_begin_2016)) {\n        $deliveries_available_text = 'Deliveries begin in 2016';\n        $reserve_yours_intro_text  = \"Powerwall begins shipping in 2016 and requires installation by a trained electrician. Reserve yours today and you'll be contacted in early 2016 to arrange installation.\";\n    }\n    else {\n        $deliveries_available_text = 'Deliveries begin in late 2015';\n        $reserve_yours_intro_text  = \"Powerwall begins shipping in late 2015 and requires installation by a trained electrician. Reserve yours today and you'll be contacted to arrange installation.\";\n    }\n\n    // Combined copy for two sections for copy that differs based on locale:\n    // -------------------------------------------------------------------------------------------\n    if (in_array($current_locale, $solar_powered_and_complete_circuit)) {\n\n        // Complete the Circuit\n        $complete_the_circuit_intro_copy = 'Powerwall is a home battery that charges using electricity generated from solar panels, or when utility rates are low, and powers your home in the evening. Automated, compact and simple to install, Powerwall enables you to maximize self-consumption of solar power generation.';\n\n        // Solar Powered\n        $solar_powered_left_column_title     = 'Reduce Your Electricity Bill';\n        $solar_powered_left_column_copy      = 'In ' . $current_country_name . ', the price you are paid for the excess solar power your home generates is lower than the price you pay for electricity from the utility grid. Given this rate structure, it is more cost effective to consume your solar power than to sell it back to the utility. By storing your home\\'s surplus power and using it when you would otherwise need to pull from the grid, Powerwall minimizes your net spending.';\n    }\n    else {\n\n        // Complete the Circuit\n        $complete_the_circuit_intro_copy = 'Powerwall is a home battery that charges using electricity generated from solar panels, or when utility rates are low, and powers your home in the evening.';\n        if ($current_locale == 'en_GB') {\n            $complete_the_circuit_intro_copy .= ' Automated, compact and simple to install, Powerwall enables you to maximize self-consumption of solar power generation.';\n        } else {\n            $complete_the_circuit_intro_copy .= ' It also fortifies your home against power outages by providing a backup electricity supply. Automated, compact and simple to install, Powerwall offers independence from the utility grid and the security of an emergency backup.';\n        }\n\n        // Solar Powered\n        $solar_powered_left_column_title = 'Avoid Paying Peak Rates';\n        $solar_powered_left_column_copy  = 'Power companies often charge a higher price for electricity during peak evening hours than overnight when demand is low. Powerwall can store electricity when rates are low and power your home when rates are high.';\n    }\n\n    // Localization of content for the locales that are\n    // -------------------------------------------------------------------------------------------\n    if (in_array($current_locale, $currently_translated_pages)) {\n\n        // Generic compliancy\n        $localized_certification_copy = 'Powerwall will be compliant with relevant safety and electrical standards at market launch.';\n    }\n    else {\n\n        // RoW copy (but really only US since everyone else is redirected back to the homepage)\n        $localized_certification_copy = 'NRTL listed to UL standards';\n    }\n\n\n    // Logic to display the correct value as necessary\n    // -------------------------------------------------------------------------------------------\n    $is_reverse = in_array($current_locale, $reverse_order_of_batteries);\n\n    $top_capacity       = $is_reverse ? $seven_kHw_capacity    : $ten_kHw_capacity;\n    $top_price          = $is_reverse ? $seven_kHw_price       : $ten_kHw_price;\n    $top_description    = $is_reverse ? $seven_kHw_description : $ten_kHw_description;\n\n    $bottom_capacity    = $is_reverse ? $ten_kHw_capacity      : $seven_kHw_capacity;\n    $bottom_price       = $is_reverse ? $ten_kHw_price         : $seven_kHw_price;\n    $bottom_description = $is_reverse ? $ten_kHw_description   : $seven_kHw_description;\n\n    // only add the asterisk to the seven kHw price\n    $asterisk_markup = '&nbsp;<span class=\"battery-disclaimer\">*</span>';\n\n    // only add the asterisk to the seven kHw price\n    if(in_array($current_locale, $show_VAT_disclaimer) && ($top_price == $seven_kHw_price)) {\n        $top_asterisk = $asterisk_markup;\n    } else {\n        $top_asterisk = \"\";\n    }\n    if(in_array($current_locale, $show_VAT_disclaimer) && ($bottom_price == $seven_kHw_price)) {\n        $bottom_asterisk = $asterisk_markup;\n    } else {\n        $bottom_asterisk = \"\";\n    }\n\n    // setting the stage for further localization\n    if($top_price != 0) {\n        $top_price = tesla_format_currency($top_price, $current_country) . $top_asterisk;\n    } else {\n        $top_price = '';\n    }\n    if($bottom_price != 0) {\n        $bottom_price = tesla_format_currency($bottom_price, $current_country) . $bottom_asterisk;\n    } else {\n        $bottom_price = '';\n    }\n\n    // Logic to display metric or imperial first\n    // -------------------------------------------------------------------------------------------\n    $display_metric_first_for_these_locales = array('en_GB');\n    $is_metric_first = in_array($current_locale, $display_metric_first_for_these_locales);\n\n    $temp_top    = $is_metric_first ? $temp_metric : $temp_imperial;\n    $temp_bottom = $is_metric_first ? $temp_imperial : $temp_metric;\n\n    $weight_top    = $is_metric_first ? $weight_metric : $weight_imperial;\n    $weight_bottom = $is_metric_first ? $weight_imperial : $weight_metric;\n\n    if ($current_locale == 'en_US') {\n        $dimensions_top = $dimensions_imperial;\n        $dimensions_bottom = $dimensions_metric;\n    }\n    elseif ($current_locale == 'en_GB') {\n        $dimensions_top = $dimensions_metric;\n        $dimensions_bottom = $dimensions_imperial;\n    }\n    else {\n        $dimensions_top = $dimensions_metric;\n        $dimensions_bottom = NULL;\n    }\n?>\n\n<section id=\"home\" class=\"section-initial hero-container\">\n    <img src=\"<?php print $powerwall_default_images_path; ?>section-hero@2x.jpg?<?php echo $cachebuster; ?>\" class=\"section-hero hide-on-mobile\">\n    <img src=\"<?php print $powerwall_default_images_path; ?>section-hero-touch.jpg?<?php echo $cachebuster; ?>\" width=\"720\" class=\"section-hero hide-on-desk\">\n\n    <div class=\"section-content\">\n        <div class=\"container\">\n            <h1 class=\"page-title\"><strong>Power</strong>wall</h1>\n            <h2 class=\"section-subtitle\">Tesla Home Battery</h2>\n            <div class=\"btn-group\">\n                <a href=\"#\" data-formtype=\"SS_HOME\" class=\"stationary-modal hide-on-mobile btn-primary\" title=\"Pre-Order your Powerwall now\"><?php echo $button_label_text; ?></a>\n                <a href=\"<?php print url('powerwall/reserve'); ?>\" class=\"hide-on-desk btn-primary\" title=\"Pre-Order your Powerwall now\"><?php echo $button_label_text; ?></a>\n            </div>\n            <p class=\"section-description\"><?php echo $deliveries_available_text; ?></p>\n        </div>\n    </div>\n</section>\n\n<section id=\"complete-the-circuit\" class=\"section-complete-the-circuit\">\n    <div class=\"section-intro\">\n        <div class=\"container\">\n            <div class=\"column event-copy\">\n                <h1 class=\"section-title\">Energy Storage for a Sustainable Home</h1>\n                <p class=\"section-description\"><?php echo $complete_the_circuit_intro_copy; ?></p>\n            </div>\n            <div class=\"column event-media\">\n                <figure class=\"content-media\">\n                    <div style=\"display:none\"></div>\n                    <iframe src=\"//player.vimeo.com/video/126637913\" width=\"500\" height=\"280\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n                    <figcaption class=\"figure-caption\">Tesla Powerwall launch event in Los Angeles <nobr>on April 30th, 2015</nobr></figcaption>\n                </figure>\n                <?php\n                 /*\n                    <div class=\"related-updates\">\n                        <h2 class=\"section-subtitle\">Watch the Event</h2>\n                        <div class=\"post\">\n                            <h3 class=\"post-header\"><a href=\"<?php print url('blog'); ?>\" title=\"Powerwall: Tesla Home Battery\" class=\"post-link\">Powerwall: Tesla Home Battery</a></h3>\n                            <p class=\"post-info\">\n                                <span class=\"post-date\">April 30, 2015</span>\n                                <span class=\"post-location\">Los Angeles, California</span>\n                            </p>\n                        </div>\n                    </div>\n                */\n                ?>\n            </div>\n        </div>\n    </div>\n</section>\n\n<!-- this is new -->\n<section id=\"why-powerwall\" class=\"section-why section-alternate\">\n    <div class=\"section-intro\">\n        <div class=\"container\">\n            <h1 class=\"section-title\">Why Powerwall?</h1>\n            <p class=\"section-description\">Tesla home batteries maximize the usefulness of your solar panels and offer a variety of backup electricity supply solutions. You can even go off the grid.</p>\n            <div class=\"column-contain\">\n                <div class=\"column solar-at-night\">\n                    <h2 class=\"section-sub-header\">Solar electricity at night</h2>\n                    <p class=\"section-description\">Powerwall stores electricity generated by solar panels during the day and makes it available to your home in the evening.</p>\n                    <p class=\"section-description\">This bridges the gap between peak solar and peak demand, allowing you to use your photons when you need them.</p>\n                </div>\n                <div class=\"column go-net-zero\">\n                    <h2 class=\"section-sub-header\">Go net zero</h2>\n                    <p class=\"section-description\">Combine solar panels and one or more Powerwall home batteries to power your home independently from the utility grid.</p>\n                    <p class=\"section-description\">A net zero energy rating means that your home produces as much energy as it consumes, but is still connected to the utility grid for periods of high demand.</p>\n                </div>\n                <div class=\"column emergency-backup\">\n                    <h2 class=\"section-sub-header\">Emergency backup</h2>\n                    <p class=\"section-description\">In the event of a utility outage, Powerwall can power your entire home or select appliances with an uninterrupted supply of electricity.</p>\n                    <p class=\"section-description\">When installed along with solar panels, Powerwall will allow your home to use solar generated electricity during a utility outage.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n\n<section id=\"solar-powered\" class=\"section-solar section-alternate\">\n    <div class=\"section-intro\">\n        <div class=\"container\">\n            <figure class=\"solar-graph\">\n                <p class=\"caption-morning\">Morning Demand</p>\n                <p class=\"caption-peak\"><span>Peak</span> Solar</p>\n                <p class=\"caption-evening\">Evening Demand</p>\n            </figure>\n            <h1 class=\"section-title\">Solar Powered Day and Night</h1>\n            <p class=\"section-description\">The average home uses more electricity in the morning and evening than during the day when solar energy is plentiful. Without a home battery, excess solar energy is often sold to the power company and purchased back in the evening. This mismatch adds demand on power plants and increases carbon emissions. Powerwall bridges this gap between renewable energy supply and demand by making your home's solar energy available to you when you need it.</p>\n            <div class=\"column-contain\">\n                <div class=\"column\">\n                    <p class=\"section-description\">\n                        <strong><?php print $solar_powered_left_column_title; ?></strong>\n                        <?php print $solar_powered_left_column_copy; ?>\n                    </p>\n                </div>\n                <div class=\"column\">\n                    <p class=\"section-description\">\n                        <strong>Energy Security</strong>\n                        Powerwall automatically switches to battery power in the event of an electric company outage, bringing peace of mind to those who live in areas prone to storms or unreliable utility grids.\n                    </p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n\n<section id=\"looks-good-too\" class=\"section-functional\">\n    <div class=\"section-intro\">\n        <div class=\"container\">\n            <h1 class=\"section-title\">Beautifully Functional</h1>\n            <p class=\"section-description\">Current generation home batteries are bulky, expensive to install and expensive to maintain. In contrast, Powerwall's lithium ion battery inherits Tesla's proven automotive battery technology to power your home safely and economically. Completely automated, it installs easily and requires no maintenance.</p>\n            <img src=\"<?php echo $powerwall_default_images_path; ?>models-powerwall@2x.jpg?<?php echo $cachebuster; ?>\" class=\"section-image\">\n        </div>\n    </div>\n</section>\n\n<!-- this is new -->\n<section id=\"how-it-works-v2\" class=\"section-how-it-works-v2\">\n    <div class=\"section-intro\">\n        <div class=\"container\">\n            <div class=\"intro-text\">\n                <h1 class=\"section-title\">How it Works</h1>\n                <p class=\"section-description\">A typical Powerwall system includes solar panels, an inverter for converting electricity between direct current and alternating current, a meter for measuring battery charge, and in backup applications, a secondary circuit that powers key appliances. Which components are required depending on how you use your home battery.</p>\n            </div>\n            <div class=\"section-content\">\n                <img src=\"<?php echo $powerwall_theme_images_path; ?>how-it-works.png\" class=\"section-image\">\n                <ul class=\"captions\">\n                    <li class=\"caption caption--solar-panels\">\n                        <h2 class=\"section-sub-header\">Solar panels</h2>\n                        <p class=\"section-description\">Panels convert sunlight into electricity that charges Powerwall and powers your home during the day. Without solar, Powerwall can reduce time of use power bills by strategically shifting energy consumption.</p>\n                    </li>\n                    <li class=\"caption caption--powerwall\">\n                        <h2 class=\"section-sub-header\">Powerwall</h2>\n                        <p class=\"section-description\">The home battery is charged with electricity generated by solar panels or from the utility grid.</p>\n                    </li>\n                    <li class=\"caption caption--inverter\">\n                        <h2 class=\"section-sub-header\">Inverter</h2>\n                        <p class=\"section-description\">The inverter converts direct current electricity from solar panels, the grid and Powerwall into the alternating current used by your home’s lights, appliances and devices.</p>\n                        <p class=\"section-description\">All Powerwall installations require a compatible inverter. To maximize solar consumption, a meter is also installed to measure solar production and home energy use.</p>\n                    </li>\n                    <li class=\"caption caption--electrical-panel\">\n                        <h2 class=\"section-sub-header\">Electrical Panel</h2>\n                        <p class=\"section-description\">Electricity from the inverter is sent to your home’s electrical panel. For applications without solar, and night time, electricity generated by the power company is sent from the electrical panel to the inverter to charge the Powerwall.</p>\n                    </li>\n                    <li class=\"caption caption--backup-panel\">\n                        <h2 class=\"section-sub-header\">Backup panel and switch</h2>\n                        <p class=\"section-description\">Some backup installations may require a secondary electrical panel containing the critical appliances and outlets you wish to back up. An electrical switch automatically activates the backup panel during a power company outage.</p>\n                        <p class=\"section-description\">When installed with solar, this switch can keep your solar producing during an outage. Backup is an optional feature when installing to maximize solar or shift energy consumption.</p>\n                    </li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>\n\n<section id=\"capacity\" class=\"section-capacity\">\n    <div class=\"section-intro\">\n        <div class=\"container\">\n            <h1 class=\"section-title\">Capacity</h1>\n            <p class=\"section-description\">Each Powerwall has a 7&nbsp;kWh energy storage capacity, sufficient to power most homes during the evening using electricity generated by solar panels during the day. Multiple batteries may be installed together for homes with greater energy needs. A 10&nbsp;kWh weekly cycle version is available for backup applications.</p>\n            <div class=\"content-media\">\n                <img src=\"<?php echo $powerwall_default_images_path; ?>powerwall-battery-group@2x.png?<?php echo $cachebuster; ?>\" class=\"section-image\">\n                <figcaption class=\"figure-caption\">\n                    <span>Multiple batteries may be installed together.</span>\n                </figcaption>\n            </div>\n            <h2 class=\"section-subtitle\">How much electricity does my home use?</h2>\n            <p class=\"section-description\">Common household electricity consumption.</p>\n            <ul class=\"icons-grid\">\n                <li class=\"icon icon-tv\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-tv.svg?<?php echo $cachebuster; ?>\" class=\"icon-image icon-svg\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-tv.png?<?php echo $cachebuster; ?>\" class=\"icon-image icon-png\">\n                    <p class=\"icon-text\">\n                        <span class=\"icon-title\">Flat Screen TV</span>\n                        0.1&nbsp;kWh /hr\n                    </p>\n                </li>\n                <li class=\"icon icon-light\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-light.svg?<?php echo $cachebuster; ?>\" class=\"icon-image icon-svg\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-light.png?<?php echo $cachebuster; ?>\" class=\"icon-image icon-png\">\n                    <p class=\"icon-text\">\n                        <span class=\"icon-title\">Lights Per Room</span>\n                        0.1&nbsp;kWh /hr\n                    </p>\n                </li>\n                <li class=\"icon icon-laptop\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-laptop.svg?<?php echo $cachebuster; ?>\" class=\"icon-image icon-svg\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-laptop.png?<?php echo $cachebuster; ?>\" class=\"icon-image icon-png\">\n                    <p class=\"icon-text\">\n                        <span class=\"icon-title\">Laptop</span>\n                        0.05&nbsp;kWh /hr\n                    </p>\n                </li>\n                <?php\n                /*\n                <li class=\"icon icon-water-heater\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-waterheater.svg?<?php echo $cachebuster; ?>\" class=\"icon-image icon-svg\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-waterheater.png?<?php echo $cachebuster; ?>\" class=\"icon-image icon-png\">\n                    <p class=\"icon-text\">\n                        <span class=\"icon-title\">Water Heater</span>\n                        1.8&nbsp;kWh /hr\n                    </p>\n                </li>\n                */\n                ?>\n                <li class=\"icon icon-refrigerator\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-refrigerator.svg?<?php echo $cachebuster; ?>\" class=\"icon-image icon-svg\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-refrigerator.png?<?php echo $cachebuster; ?>\" class=\"icon-image icon-png\">\n                    <p class=\"icon-text\">\n                        <span class=\"icon-title\">Refrigerator</span>\n                        1.6&nbsp;kWh /day\n                    </p>\n                </li>\n                <li class=\"icon icon-clothes-washer\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-washer.svg?<?php echo $cachebuster; ?>\" class=\"icon-image icon-svg\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-washer.png?<?php echo $cachebuster; ?>\" class=\"icon-image icon-png\">\n                    <p class=\"icon-text\">\n                        <span class=\"icon-title\">Clothes Washer</span>\n                        2.3&nbsp;kWh each use\n                    </p>\n                </li>\n                <li class=\"icon icon-clothes-dryer last-child\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-dryer.svg?<?php echo $cachebuster; ?>\" class=\"icon-image icon-svg\">\n                    <img src=\"<?php echo $powerwall_theme_images_path ?>powerwall-dryer.png?<?php echo $cachebuster; ?>\" class=\"icon-image icon-png\">\n                    <p class=\"icon-text\">\n                        <span class=\"icon-title\">Clothes Dryer</span>\n                        3.3&nbsp;kWh each use\n                    </p>\n                </li>\n\n            </ul>\n        </div>\n    </div>\n</section>\n\n<section id=\"how-it-works\" class=\"section-how-it-works\">\n    <div class=\"section-intro\">\n        <div class=\"container\">\n            <div class=\"how-it-works-text\">\n                <h2 class=\"section-subtitle\">How it Works</h2>\n                <p class=\"section-description\">Home solar installations consist of a solar panel, an electrical inverter, and now a home battery to store surplus solar energy for later use.</p>\n                <ul class=\"section-description\">\n                    <li class=\"section-description\">\n                        <strong>Solar panel</strong>\n                        Installed in an array on your roof, solar panels convert sunlight into electricity.\n                    </li>\n                    <li class=\"section-description\">\n                        <strong>Home battery</strong>\n                        Powerwall stores surplus electricity generated from solar panels during the day or from the utility grid when rates are low.\n                    </li>\n                    <li class=\"section-description\">\n                        <strong>Inverter</strong>\n                        Converts direct current electricity from solar panels or a home battery into the alternating current used by your home's lights, appliances and devices.\n                    </li>\n                </ul>\n                <p class=\"section-description\">Contained within Powerwall's outdoor-rated enclosure is a rechargeable lithium-ion battery, a liquid thermal management system, a battery management system and a smart DC-DC converter for controlling power flow.</p>\n            </div>\n            <aside class=\"how-it-works-graphic\">\n                <figure class=\"graphic-figure\">\n                    <img src=\"<?php print $powerwall_default_images_path; ?>/powerwall-how-it-works.png?<?php echo $cachebuster; ?>\" class=\"section-image\">\n                    <figcaption class=\"caption solar-panel\">Solar Panel</figcaption>\n                    <figcaption class=\"caption powerwall\">Powerwall</figcaption>\n                    <figcaption class=\"caption inverter\">Inverter</figcaption>\n                    <figcaption class=\"caption home-outlets\">Home Outlets</figcaption>\n                    <figcaption class=\"caption electrical-box\">Electrical Box</figcaption>\n                </figure>\n            </aside>\n        </div>\n    </div>\n</section>\n\n<section id=\"specs\" class=\"section-specs\">\n    <div class=\"section-intro\">\n        <div class=\"container\">\n            <h1 class=\"section-title\">Specs</h1>\n            <div class=\"specs-image\">\n                    <img src=\"<?php echo $i18n_image_source; ?>\" class=\"section-image\">\n            </div>\n            <div class=\"specs-text\">\n                <ul class=\"column\">\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Technology</strong>\n                        <span class=\"feature-description\">Wall mounted, rechargeable lithium ion battery with liquid thermal control.</span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <?php if($current_country != 'US'): ?>\n                            <strong class=\"feature-title\">Models</strong>\n                            <span class=\"feature-price\">\n                                <?php echo $top_capacity; ?>&nbsp;kWh\n                                <?php if (in_array($current_locale, $show_prices_array)): ?>\n                                    <em class=\"price\"><?php echo $top_price; ?></em>\n                                <?php endif; ?>\n                            </span>\n                            <span class=\"feature-description\"><?php echo $top_description; ?></span>\n                        <?php else: ?>\n                            <strong class=\"feature-title\">Model</strong>\n                        <?php endif; ?>\n\n                        <span class=\"feature-price\">\n                            <?php echo $bottom_capacity; ?>&nbsp;kWh\n                            <?php if (in_array($current_locale, $show_prices_array)): ?>\n                                <em class=\"price\"><?php echo $bottom_price; ?></em>\n                            <?php endif; ?>\n                        </span>\n                        <span class=\"feature-description\"><?php echo $bottom_description; ?></span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Warranty</strong>\n                        <span class=\"feature-description\">Ten years</span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Efficiency</strong>\n                        <span class=\"feature-description\">92% round-trip DC efficiency</span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Power</strong>\n                        <span class=\"feature-description\">3.3 kW</span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Voltage</strong>\n                        <span class=\"feature-description\">350 &ndash; 450 volts</span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Current</strong>\n                        <span class=\"feature-description\">9.5 amp</span>\n                    </li>\n                </ul>\n                <ul class=\"column\">\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Compatibility</strong>\n                        <span class=\"feature-description\">Single phase and three phase utility grid compatible.</span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Operating Temperature</strong>\n                        <span class=\"feature-description\">\n                        <?php\n                            if (!in_array($current_locale, $eliminate_farenheit_from)) {\n                                echo $temp_top . '&nbsp;/&nbsp;';\n                            }\n                            echo $temp_bottom;\n                        ?>\n                        </span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Enclosure</strong>\n                        <span class=\"feature-description\">Rated for indoor and outdoor installation.</span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Installation</strong>\n                        <span class=\"feature-description\">Requires installation by a trained electrician. DC-AC inverter not included.</span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Weight</strong>\n                        <span class=\"feature-description\"><?php echo $weight_top; ?> / <?php echo $weight_bottom?></span>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Dimensions</strong>\n                        <span class=\"feature-description\"><?php echo $dimensions_top; ?></span><br/>\n                        <?php if (!empty($dimensions_bottom)): ?>\n                            <span class=\"feature-description\"><?php echo $dimensions_bottom; ?></span>\n                        <?php endif; ?>\n                    </li>\n                    <li class=\"battery-feature\">\n                        <strong class=\"feature-title\">Certification</strong>\n                        <span class=\"feature-description\"><?php echo $localized_certification_copy; ?></span>\n                    </li>\n                </ul>\n                <?php if (in_array($current_locale, $show_VAT_disclaimer)): ?>\n                    <p class=\"battery-disclaimer\">*&nbsp;Whoelsale price inclusive of VAT</p>\n                <?php endif ?>\n            </div>\n        </div>\n    </div>\n</section>\n\n<section id=\"reserve-yours\" class=\"section-reserve section-alternate\">\n    <div class=\"section-intro\">\n        <div class=\"container\">\n            <?php if(in_array($current_locale, $locales_with_reservations_enabled)): ?>\n                <h1 class=\"section-title reservations-enabled\">How to Buy</h1>\n            <?php endif;?>\n            <div class=\"column-contain\">\n                <div class=\"column powerwall-for-home\">\n                    <?php if(!in_array($current_locale, $locales_with_reservations_enabled)): ?>\n                        <h1 class=\"section-title\">How to Buy</h1>\n                    <?php endif;?>\n                    <p class=\"section-description\"><?php echo $reserve_yours_intro_text; ?></p>\n                    <div class=\"btn-group\">\n                        <a href=\"#\" data-formtype=\"SS_HOME\" class=\"stationary-modal hide-on-mobile btn-primary\"><?php echo $button_label_text; ?></a>\n                        <a href=\"<?php print url('powerwall/reserve'); ?>\" class=\"hide-on-desk btn-primary\" title=\"Pre-Order your Power Wall now\"><?php echo $button_label_text; ?></a>\n                        <p class=\"section-description\"><?php echo $deliveries_available_text; ?></p>\n                        <p class=\"list-link hide-on-desk\"><a href=\"<?php print url('powerwall/distribution'); ?>\" title=\"Become a Distribution Partner\">Become a Distribution Partner</a></p>\n                    </div>\n                </div>\n                <div class=\"column powerwall-for-business\">\n                    <?php if(!in_array($current_locale, $locales_with_reservations_enabled)): ?>\n                        <h1 class=\"section-title\"><?php echo $tesla_energy_or_powerpack; ?></h1>\n                        <h2 class=\"section-subtitle\">For Businesses and Utilities</h2>\n                    <?php endif;?>\n                    <p class=\"section-description\"><?php echo $tesla_energy_or_powerpack; ?> allows businesses to reduce peak demand charges, shift energy consumption profiles, and participate in available grid markets. For utilities, <?php echo $tesla_energy_or_powerpack; ?> solutions are turn-key, fully integrated systems, designed for long life and to serve a wide array of applications, including peaker replacement/capacity provision, T&D deferral, system firming, and other market participation.</p>\n                    <?php if(in_array($current_locale, $locales_with_reservations_enabled)): ?>\n                        <div class=\"btn-group\">\n                            <a href=\"<?php print url('powerpack/reserve'); ?>\" class=\"btn-primary\" title=\"Reserve your Powerpack now\"><?php echo $powerpack_button_label_text; ?></a>\n                            <p class=\"section-description\">\n                                Deliveries begin in late 2015<br>\n                                Requires $1,000 USD reservation fee\n                            </p>\n                        </div>\n                    <?php endif;?>\n                </div>\n            </div>\n            <div class=\"column-contain\">\n                <div class=\"column\">\n                    <p class=\"list-link\"><a href=\"#\" data-formtype=\"SS_PARTNER\" class=\"stationary-modal hide-on-mobile\" title=\"Become a Distribution Partner\">Become a Distribution Partner</a></p>\n                    <p class=\"list-link hide-on-mobile\"><a href=\"<?php print url($url_careers); ?>\" title=\"Join the <?php echo $tesla_energy_or_powerpack; ?> team\">Join the <?php echo $tesla_energy_or_powerpack; ?> team</a></p>\n                    <p class=\"list-link hide-on-mobile\"><a href=\"<?php print url('presskit/teslaenergy'); ?>\" title=\"Information about <?php echo $tesla_energy_or_powerpack; ?> for Press and Media\">Information about <?php echo $tesla_energy_or_powerpack; ?> for Press and Media</a></p>\n                </div>\n                <div class=\"column\">\n                    <p class=\"list-link\">\n                        <a href=\"#\" data-formtype=\"SS_BUSINESS\" class=\"stationary-modal hide-on-mobile\" title=\"Inquire about Commercial Energy Storage\">\n                            <?php if(in_array($current_locale, $locales_with_reservations_enabled)): ?>\n                                Inquire about <?php echo $tesla_energy_or_powerpack; ?>\n                            <?php else: ?>\n                                Inquire about <?php echo $tesla_energy_or_powerpack; ?> for Businesses and Utilities\n                            <?php endif; ?>\n                        </a>\n                        <?php if($current_locale == 'ja_JP'): ?>\n                        <p class=\"section-description\">\n                            Inquiry about Tesla Energy：<a href=\"mailto:PowerwallJP@teslamotors.com\">PowerwallJP@teslamotors.com</a>\n                        </p>\n                        <?php endif; ?>\n                    </p>\n                    <?php if(in_array($current_locale, $locales_with_reservations_enabled)): ?>\n                        <p class=\"list-link\"><a href=\"/sites/default/files/pdfs/powerwall/Powerpack_Specification_Summary.pdf\" title=\"View Powerpack Specifications\">Powerpack Specifications</a></p>\n                    <?php endif; ?>\n                    <p class=\"list-link\"><a href=\"<?php print url('powerwall/business'); ?>\" class=\"hide-on-desk\" title=\"Inquire about Commercial Energy Storage\">Inquire about Powerpack for Businesses and Utilities</a></p>\n                </div>\n            </div>\n\n        </div>\n    </div>\n</section>\n",
+			"price",
+			"asterisk",
+			"bottom_",
+			"bottom_desc",
+			"reverse_order",
+			"solar",
+			"solar-powered",
+			"opacity",
+			");",
+			";\n",
+			"how-it-works",
+			"section-load",
+			"load",
+			"showLoading()",
+			"this.showLoading()",
+			"this.showLoading()`\n",
+			"this.$loading.removeClass(\"hidden\");",
+			"hideLoading: function() {",
+			"spinner",
+			"v2",
+			"/**",
+			"    ",
+			"section-initial",
+			"how-it-works",
+			"charging-steps",
+			"ol",
+			"$current_country",
+			"weekly cycle version is available for backup-only app",
+			"=== 'US'): ?>",
+			"ten",
+			"backup-",
+			"software",
+			"padding-bottom: 0",
+			"powerwall_theme_images_path",
+			"/sites/default/files/images/model-s/",
+			"/sites/all/themes/custom/tesla_theme/assets/img/models/",
+			">Autopilot<",
+			"/sites/default/files/images/model-s/",
+			"property",
+			"imperial",
+			"get_country_",
+			"imperial",
+			"<<<<<<<",
+			"====",
+			"autopilot",
+			"'s",
+			"<<<",
+			"section-cash-or-finance",
+			"100%",
+			"<?php",
+			"how-it-works",
+			"how it works",
+			"                    ",
+			"}\n",
+			"\n                ",
+			"        ",
+			"spinner",
+			"class=\"loader\"",
+			"development",
+			"error loading your vehicle profile",
+			"There was an error loading your vehicle profile. Please contact customer service.",
+			"There was an error loading your vehicle profile. Please contact customer service.\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"susy-breakpoint",
+			"Select",
+			"<span class=\"form-label\">",
+			"Initiate Cancel/Transfer",
+			"btn-small btn-secondary",
+			"btn-group",
+			"admin-container",
+			"payment-status",
+			"\"model-payment-status\"",
+			"model-payment-status",
+			"model-status",
+			"model-status-container",
+			"model-rn",
+			"info-container",
+			"model-name",
+			"class=\"btn-transactional btn-tiny\"",
+			"class=\"btn-transactional btn-small\"",
+			"class=\"btn-tertiary btn-small\"",
+			"class=\"btn-secondary\"",
+			"class=\"btn-primary\"",
+			"personal-details",
+			"$locale-us",
+			"table-forum",
+			"forum-post-meta",
+			"forum-title",
+			"// @import \"../../_particles/particles\";",
+			"// @import \"../_particles/particles\";",
+			"table-forum--overview",
+			"table",
+			"table-forum--title",
+			"table-forum",
+			"table",
+			"お客様情報はBWT",
+			"climate-controller",
+			"range-controls--climatebutton",
+			".range-controls--climate",
+			"sites/all/themes/custom/tesla_theme/assets/css",
+			"sites/all/themes/custom/tesla_theme/assets/js",
+			"fontstack-primary",
+			"fontstack-secondary",
+			"fontstack-primary",
+			"fontstack-secondary",
+			"nav-pill",
+			" 0",
+			"fontstack-secondary",
+			"fontstack-asset",
+			"fontstack-primary",
+			"$locale-canada_french",
+			"$gutter",
+			"graph-value-3",
+			"graph-value-2",
+			"graph-value-1",
+			"graph-value-2",
+			"graph-value-3",
+			"range-graph",
+			"media-element media-video",
+			"media-element media-image",
+			"<button class=\"btn-clear\" type=\"button\">Cancel</button>",
+			"<button class=\"btn-primary\" type=\"button\">Save</button>",
+			"class=\"btn-primary\"",
+			"class=\"btn-secondary\"",
+			"<button type=\"button\" class=\"btn-secondary btn-small\"",
+			"<button type=\"button\" class=\"btn-secondary btn-small\">Edit</button>",
+			"<button type=\"button\" class=\"btn-secondary\">Edit</button>",
+			"page-parts/footer.html.php",
+			"<span data-toggle=\"modal\" data-target=\"#locale-modal\"></span>",
+			".locale-selector",
+			"D7-TODO",
+			"$grey-a",
+			"$grey-c",
+			"$grey-d",
+			"$grey-e",
+			"$white",
+			"$grey-9",
+			"$grey-8",
+			"$grey-6",
+			"$grey-4",
+			"$grey-3",
+			"$grey-2",
+			"$black;",
+			"color: $white;",
+			"color: $grey-e;",
+			"color: $grey-c;",
+			"color: $grey-b;",
+			"color: $grey-3;",
+			"color: $grey-6",
+			"",
+			"$tesla-primary",
+			"",
+			"$tesla-active",
+			".lt-ie9",
+			"search_result",
+			"@include fontstack-teslaicons;",
+			"@include fontstack-helvetica;",
+			"fontstack-gotham",
+			"&rsquo;",
+			"Model&nbsp;S",
+			">&bull;</td>",
+			"CONNECTEUR MURAL",
+			"Wandanschluss",
+			"WANDANSCHLUSS",
+			"Wall Connector",
+			"WALL CONNECTOR",
+			"MOBILE CONNECTOR",
+			"Mobile Connector",
+			"Wall Connector",
+			"Wall Connector\nWall Connector",
+			"An 80 amp wall connector",
+			"an 80 amp wall connector",
+			"80 AMP WALL CONNECTOR + DUAL CHARGER",
+			"DUAL CHARGERS",
+			"40 AMP WALL CONNECTOR + DUAL CHARGERS",
+			"40 AMP WALL CONNECTOR + SINGLE CHARGER",
+			"80 AMP WALL CONNECTOR",
+			"80 amp wall connector",
+			"<li class=\"text\">80 amp<br>",
+			"<li class=\"text\">80 amp<br />Wall Connector</li>",
+			"DUAL CHARGER",
+			"Dual Charger",
+			"40 amp wall connector",
+			"pitstop-footer",
+			"pitstop-caption",
+			"pitstop-subheader",
+			"pitstop-content",
+			"pitstop",
+			"panels"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/scss/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								559,
+								559
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/scss/_library/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1297,
+								1297
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 633.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ajproject.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"var",
+				"assets/scss/_variables.scss"
+			],
+			[
+				"_variables",
+				"D7/themes/custom/tesla_theme/scss/_particles/_variables.scss"
+			],
+			[
+				"_layout",
+				"D7/themes/custom/tesla_theme/scss/_layout.scss"
+			],
+			[
+				"extends.scss",
+				"D7/themes/custom/tesla_theme/scss/_particles/_extends.scss"
+			],
+			[
+				"st",
+				"D6/themes/tesla/goelectric/src/css/saving-title.css"
+			],
+			[
+				"compass",
+				"D7/themes/custom/tesla_theme/scss/_particles/_compass-overrides.scss"
+			],
+			[
+				"mixins",
+				"D7/themes/custom/tesla_theme/scss/_particles/_mixins.scss"
+			],
+			[
+				"_forms.scss",
+				"D7/themes/custom/tesla_theme/scss/_particles/components/_forms.scss"
+			],
+			[
+				"forms.scss",
+				"D7/themes/custom/tesla_theme/scss/_particles/components/_forms.scss"
+			],
+			[
+				"extends",
+				"D7/themes/custom/tesla_theme/scss/_particles/_extends.scss"
+			],
+			[
+				"variables",
+				"D7/themes/custom/tesla_theme/scss/_particles/_variables.scss"
+			],
+			[
+				"mixin",
+				"D7/themes/custom/tesla_theme/scss/_particles/_mixins.scss"
+			],
+			[
+				"typography",
+				"D7/themes/custom/tesla_theme/scss/_typography.scss"
+			],
+			[
+				"particles",
+				"D7/themes/custom/tesla_theme/scss/_particles/particles.scss"
+			],
+			[
+				"modelsjs",
+				"D7/themes/custom/tesla_theme/js/models/models.js"
+			],
+			[
+				"vehiclecommon",
+				"D7/themes/custom/tesla_theme/scss/_vehicle-badges__common.scss"
+			],
+			[
+				"vehicl",
+				"D7/themes/custom/tesla_theme/scss/_vehicle-badges.scss"
+			],
+			[
+				"modelshtml",
+				"D7/themes/custom/tesla_theme/includes/model-s/model-s.html.php"
+			],
+			[
+				"devquestions",
+				"D7/themes/custom/tesla_theme/scss/_particles/extras/_dev-questions.scss"
+			],
+			[
+				"registrationyaml",
+				"D7/themes/custom/tesla_theme/includes/mytesla/form_components/registration/people.yaml"
+			],
+			[
+				"registrationcompanyyaml",
+				"D7/themes/custom/tesla_theme/includes/mytesla/form_components/registration/company.yaml"
+			],
+			[
+				"block-registratoin",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-registration.scss"
+			],
+			[
+				"blockglo",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-global.scss"
+			],
+			[
+				"profile",
+				"D7/themes/custom/tesla_theme/includes/mytesla/profile.html.php"
+			],
+			[
+				"tradeinblockjs",
+				"D7/themes/custom/tesla_theme/js/mytesla/shared/MyTeslaDashboard.TradeInBlock.class.js"
+			],
+			[
+				"blocktrade",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-tradein.scss"
+			],
+			[
+				"_common.scss",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_common.scss"
+			],
+			[
+				"registration/per",
+				"D7/themes/custom/tesla_theme/includes/mytesla/form_components/registration/person.yaml"
+			],
+			[
+				"common.scss",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_common.scss"
+			],
+			[
+				"_particles",
+				"D7/themes/custom/tesla_theme/scss/_particles/_global-theme.scss"
+			],
+			[
+				"myteslastyle",
+				"D7/themes/custom/tesla_theme/scss/mytesla/style.scss"
+			],
+			[
+				"tradeinyaml",
+				"D7/themes/custom/tesla_theme/includes/mytesla/form_components/tradein/base.yaml"
+			],
+			[
+				"tradeintpl",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/tradein_block.tpl.php"
+			],
+			[
+				"vehiclebadge",
+				"D7/themes/custom/tesla_theme/scss/_vehicle-badges__common.scss"
+			],
+			[
+				"modelsscss",
+				"D7/themes/custom/tesla_theme/scss/models/models.scss"
+			],
+			[
+				"deliverypickup",
+				"D7/themes/custom/tesla_theme/js/mytesla/shared/MyTeslaDashboard.DeliveryPickupBlock.class.js"
+			],
+			[
+				"pickupblock",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/delivery_pickup_block.tpl.php"
+			],
+			[
+				"tradein.scss",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-tradein.scss"
+			],
+			[
+				"blockgloba",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-global.scss"
+			],
+			[
+				"tables.scss",
+				"D7/themes/custom/tesla_theme/scss/_particles/components/_tables.scss"
+			],
+			[
+				"blockpaynow",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-pay-now.scss"
+			],
+			[
+				"tradeinscss",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-tradein.scss"
+			],
+			[
+				"trade",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/tradein_block.tpl.php"
+			],
+			[
+				"baseblock",
+				"D7/themes/custom/tesla_theme/js/mytesla/shared/MyTeslaDashboard.BaseBlock.class.js"
+			],
+			[
+				"dashboard",
+				"D7/themes/custom/tesla_theme/includes/mytesla/dashboard.html.php"
+			],
+			[
+				"helpers",
+				"D7/themes/custom/tesla_theme/scss/_helpers.scss"
+			],
+			[
+				"loaderblock",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/loader_block.tpl.php"
+			],
+			[
+				"powerwallhtml",
+				"D7/themes/custom/tesla_theme/includes/powerwall/powerwall.html.php"
+			],
+			[
+				"powerwallbase",
+				"D7/themes/custom/tesla_theme/scss/powerwall/base.scss"
+			],
+			[
+				"mytesladashboardcontrollclass",
+				"D7/themes/custom/tesla_theme/js/mytesla/shared/MyTeslaDashboard.Controller.class.js"
+			],
+			[
+				"_helpers.",
+				"D7/themes/custom/tesla_theme/scss/_helpers.scss"
+			],
+			[
+				"contacts.js",
+				"D7/themes/custom/tesla_theme/js/mytesla/shared/MyTeslaDashboard.ContactsBlock.class.js"
+			],
+			[
+				"loading-widget",
+				"D7/themes/custom/tesla_theme/scss/_particles/extras/_loading-widget.scss"
+			],
+			[
+				"spinner.scss",
+				"D7/themes/custom/tesla_theme/scss/_particles/components/_spinner.scss"
+			],
+			[
+				"template",
+				"D7/themes/custom/tesla_theme/template.php"
+			],
+			[
+				"refactoredloading",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_loading-widget.scss"
+			],
+			[
+				"loading.scss",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/_loading.scss"
+			],
+			[
+				"loading_inner_block",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/loading_inner_block.tpl.php"
+			],
+			[
+				"contacts",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/contacts_block.tpl.php"
+			],
+			[
+				"blockcontact",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-contacts.scss"
+			],
+			[
+				"base.scss",
+				"D7/themes/custom/tesla_theme/scss/powerwall/base.scss"
+			],
+			[
+				"modelsht",
+				"D7/themes/custom/tesla_theme/includes/model-s/model-s.html.php"
+			],
+			[
+				"forsha",
+				"D7/themes/custom/tesla_theme/scss/_for-shame.scss"
+			],
+			[
+				"variab",
+				"D7/themes/custom/tesla_theme/scss/_particles/_variables.scss"
+			],
+			[
+				"d7style",
+				"D7/themes/custom/tesla_theme/scss/styles.scss"
+			],
+			[
+				"scriptfor",
+				"D7/themes/custom/tesla_theme/js/scripts-for-header.js"
+			],
+			[
+				"footer.scss",
+				"D7/themes/custom/tesla_theme/scss/_footer.scss"
+			],
+			[
+				"d7supercharger.scss",
+				"D7/themes/custom/tesla_theme/scss/supercharger/supercharger.scss"
+			],
+			[
+				"header.scss",
+				"D7/themes/custom/tesla_theme/scss/_header.scss"
+			],
+			[
+				"drupalscss",
+				"D7/themes/custom/tesla_theme/scss/_drupalcore-overrides.scss"
+			],
+			[
+				"legal",
+				"D7/themes/custom/tesla_theme/scss/about/legal/legal.scss"
+			],
+			[
+				"typogra",
+				"D7/themes/custom/tesla_theme/scss/_typography.scss"
+			],
+			[
+				"modelshtmlphp",
+				"D7/themes/custom/tesla_theme/includes/model-s/model-s.html.php"
+			],
+			[
+				"powerwall",
+				"D7/themes/custom/tesla_theme/includes/powerwall/powerwall.html.php"
+			],
+			[
+				"models.js",
+				"D7/themes/custom/tesla_theme/js/models/models.js"
+			],
+			[
+				"vehicleba",
+				"D7/themes/custom/tesla_theme/scss/_vehicle-badges.scss"
+			],
+			[
+				"models.scs",
+				"D7/themes/custom/tesla_theme/scss/models/models.scss"
+			],
+			[
+				"teslalocale",
+				"D7/modules/custom/tesla_locale/tesla_locale.main.inc"
+			],
+			[
+				"modelshtmlpp",
+				"D7/themes/custom/tesla_theme/includes/model-s/model-s.html.php"
+			],
+			[
+				"models.scss",
+				"D7/themes/custom/tesla_theme/scss/models/models.scss"
+			],
+			[
+				"referralblock",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/referral_block.tpl.php"
+			],
+			[
+				"contactsscss",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-contacts.scss"
+			],
+			[
+				"cachfinance",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/cash_or_finance_block.tpl.php"
+			],
+			[
+				"tradeinblock",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/tradein_block.tpl.php"
+			],
+			[
+				"leasingblock",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/leasing_application_block.tpl.php"
+			],
+			[
+				"registrationblock",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/registration_block.tpl.php"
+			],
+			[
+				"d7referralbl",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/referral_block.tpl.php"
+			],
+			[
+				"servicesighn",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/service_signup_block.tpl.php"
+			],
+			[
+				"chargecardtpl",
+				"D7/modules/custom/tesla_charge_card/templates/tesla-charge-card.tpl.php"
+			],
+			[
+				"dashb",
+				"D7/themes/custom/tesla_theme/includes/mytesla/dashboard.html.php"
+			],
+			[
+				"block-glo",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-global.scss"
+			],
+			[
+				"cash",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/cash_or_finance_block.tpl.php"
+			],
+			[
+				"contactyaml",
+				"D7/themes/custom/tesla_theme/includes/mytesla/form_components/contacts/primary_contact_info.yaml"
+			],
+			[
+				"myteslamixins",
+				"D7/themes/custom/tesla_theme/scss/mytesla/_mixins.scss"
+			],
+			[
+				"mytesla/stylescss",
+				"D7/themes/custom/tesla_theme/scss/mytesla/style.scss"
+			],
+			[
+				"d7profile",
+				"D7/themes/custom/tesla_theme/includes/mytesla/profile.html.php"
+			],
+			[
+				"d7dashboard",
+				"D7/themes/custom/tesla_theme/includes/mytesla/dashboard.html.php"
+			],
+			[
+				"page",
+				"D6/themes/tesla/page.tpl.php"
+			],
+			[
+				"html",
+				"D7/themes/custom/tesla_theme/templates/html.tpl.php"
+			],
+			[
+				"varia",
+				"D6/themes/tesla/homepage/scss/_variables.scss"
+			],
+			[
+				"dashboar",
+				"D7/themes/custom/tesla_theme/includes/mytesla/dashboard.html.php"
+			],
+			[
+				"buttons",
+				"D7/themes/custom/tesla_theme/scss/_particles/components/_buttons.scss"
+			],
+			[
+				"blockglob",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-global.scss"
+			],
+			[
+				"blockhero",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-hero.scss"
+			],
+			[
+				"block-her",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-hero.scss"
+			],
+			[
+				"myteslstyle.scss",
+				"D7/themes/custom/tesla_theme/scss/mytesla/style.scss"
+			],
+			[
+				"dash",
+				"D7/themes/custom/tesla_theme/includes/mytesla/dashboard.html.php"
+			],
+			[
+				"contacts.scss",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-contacts.scss"
+			],
+			[
+				"d7myteslajs",
+				"D7/themes/custom/tesla_theme/js/mytesla/shared/MyTeslaDashboard.Controller.class.js"
+			],
+			[
+				"careesscs",
+				"D7/themes/custom/tesla_theme/scss/careers/careers.scss"
+			],
+			[
+				"galler",
+				"D7/themes/custom/tesla_theme/scss/_gallery-slides.scss"
+			],
+			[
+				"powerwallmodals",
+				"D7/themes/custom/tesla_theme/scss/modals/powerwall-modals.scss"
+			],
+			[
+				"modelsinclude",
+				"D7/themes/custom/tesla_theme/js/models/include.php"
+			],
+			[
+				"stickymenu",
+				"D7/themes/custom/tesla_theme/scss/_sticky-menu.scss"
+			],
+			[
+				"modelx",
+				"D7/themes/custom/tesla_theme/scss/modelx/modelx.scss"
+			],
+			[
+				"d7dashb",
+				"D7/themes/custom/tesla_theme/includes/mytesla/dashboard.html.php"
+			],
+			[
+				"dsashboardhtml",
+				"D6/themes/tesla/mytesla_dashboard/dashboard.html.php"
+			],
+			[
+				"blocg",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-global.scss"
+			],
+			[
+				"global.scss",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/_block-global.scss"
+			],
+			[
+				"contactsb",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/contacts_block.tpl.php"
+			],
+			[
+				"variabl",
+				"D7/themes/custom/tesla_theme/scss/_particles/_variables.scss"
+			],
+			[
+				"modlesjs",
+				"D7/themes/custom/tesla_theme/js/models/models.js"
+			],
+			[
+				"gallery-sli",
+				"D7/themes/custom/tesla_theme/scss/_gallery-slides.scss"
+			],
+			[
+				"d7/themes/custom/tesla_theme/js/",
+				"D7/themes/custom/tesla_theme/js/script.js"
+			],
+			[
+				"navblock",
+				"D7/themes/custom/tesla_theme/includes/mytesla/templates/nav_block.tpl.php"
+			],
+			[
+				"blockcontac",
+				"D7/themes/custom/tesla_theme/scss/mytesla/lib/refactored/_block-contacts.scss"
+			],
+			[
+				"mytesladashboardconnector",
+				"D7/modules/custom/tesla_core/src/Dashboard/MyTeslaDashboardConnector.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "partic",
+		"selected_items":
+		[
+			[
+				"partic",
+				"~/Dropbox/Sublime Projects/tesla-particles.sublime-project"
+			],
+			[
+				"",
+				"~/bin/tesla_d6/sites/all/themes/tesla/styles/tesla_d6.sublime-workspace"
+			],
+			[
+				"ad",
+				"~/Dropbox/Sublime Projects/tesla-advocacy.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 638.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
