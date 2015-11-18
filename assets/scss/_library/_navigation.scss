@@ -1,0 +1,59 @@
+// ------------------------------------
+// Navigational Elements
+// ------------------------------------
+.nav-wrapper {
+  .nav-item { display: inline-block; }
+}
+// .nav-wrapper {
+//   overflow: hidden;
+//   display: flex;
+//   flex-flow: row wrap;
+//   justify-content: center;
+//   align-items: center;
+//   .nav-meta,
+//   .main-nav {
+//     width: 100%;
+//     text-align: right;
+//   }
+//   .nav-meta { order: 2; }
+//   .main-nav { order: 1; }
+// }
+// .main-nav {
+//   background-color: $white;
+//   .nav-item {
+//     display: inline-block;
+//     border-right: 1px solid $black;
+//    }
+//   .nav-link { color: $seafoam; }
+// }
+//
+// .header-nav {
+//     padding: $gutter;
+//     overflow: hidden;
+//     position: relative;
+//     font-size: 36px;
+//     &:before,
+//     &:after {
+//       position: absolute;
+//       content: "";
+//       background-color: $lighter-grey;
+//     }
+//     &:before {
+//       width: 1px;
+//       left: 50%;
+//       top: $gutter;
+//       bottom: $gutter;
+//     }
+//     &:after {
+//       left: $gutter;
+//       right: $gutter;
+//       top: 50%;
+//       height: 1px;
+//     }
+//     .nav-item {
+//         text-align: center;
+//         font-size: 36px;
+//         &:nth-child(odd) { @include span(6 of 12); }
+//         &:nth-child(even) { @include span(last 6 of 12); }
+//     }
+// }

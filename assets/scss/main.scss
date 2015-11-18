@@ -2,7 +2,9 @@
 // imports
 // ------------------------------------
 
-@import "../../bower_components/susy/sass/susy";
+@import "../../node_modules/susy/sass/susy";
+
+@import "../../node_modules/breakpoint-sass/stylesheets/breakpoint";
 
 @import "_library/variables";
 
@@ -10,16 +12,284 @@
 
 @import "_library/mixins";
 
-@import "_components/buttons";
+// @import "_library/buttons";
 
-@import "_components/navigation";
+// @import "_library/navigation";
 
-@import "_components/forms";
+// @import "_library/forms";
 
-@import "base-layout";
+// @import "base-layout";
 
-@import "page-types/homepage";
+// @import "pages/homepage";
+
+// @include susy-breakpoint($break-large) {
+//     body { background-color: red; }
+// }
 
 .container {
-  @include container(1400px);
+  @include container;
+}
+.main-header {
+  background-color: $grey-green;
+  width: 100%;
+  .nav-main,
+  .nav-meta {
+    width: 100%;
+    padding: $gutter/2 $gutter;
+  }
+  .nav-main {
+    background-color: $white;
+    &:before {
+      content: "\d7";
+      display: block;
+      float: left;
+      padding: $gutter/2 $gutter;
+      margin-left: -$gutter;      // allowing for bigger click region
+      margin-top: -$gutter/2;     // allowing for bigger click region
+      cursor: pointer;
+      color: $grey-green;
+      font-weight: bold;
+    }
+  }
+  .nav-meta {
+    text-align: right;
+    color: $white;
+  }
+  .nav-header {
+    width: 100%;
+    .nav-items {
+      width: 100%;
+      font-size: 36px;
+      position: relative;
+    }
+    .nav-item {
+      text-align: left;
+      position: relative;
+      border-top: 1px solid $lighter-grey;
+      &:first-child { border-top: 0; }
+    }
+    .nav-link {
+      display: block;
+      padding: $gutter $gutter $gutter $gutter*2;
+      &:before {
+        color: white;
+        font-size: 40px;
+        content: "x";
+        display: block;
+        width: 40px;
+        position: absolute;
+        top: 17px;
+        left: 0;
+        line-height: 1;
+        text-align: center;
+
+      }
+      &:nth-child(1):before {}
+      &:nth-child(2):before {}
+      &:nth-child(3):before {}
+      &:nth-child(4):before {}
+    }
+  }
+}
+.nav-wrapper {
+  .nav-item {
+    display: inline-block;
+    margin-left: 3px;
+    padding-left: 7px;
+    border-left: 1px solid $grey-green;
+    line-height: 1;
+    &:first-child {
+      margin-left: 0;
+      padding-left: 0;
+      border-left: 0;
+    }
+  }
+}
+
+.section-headline {
+  background-color: $white;
+  padding: $gutter;
+  margin: 0 auto;
+  text-transform: uppercase;
+  .section-map & {
+    text-align: center;
+  }
+  .section-footer & {
+    background-color: transparent;
+  }
+  .section-footer & {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+.wrapper {
+  padding: $gutter;
+}
+
+// Main Content
+.main-content {
+  .grid {
+    overflow: hidden;
+    display: flex;
+    flex: row nowrap;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    background-color: $lighter-grey;
+    &:nth-child(odd) {
+      .grid-title {
+        @include span(6 of 12 (gutter-override: 0));
+        order: 1;
+      }
+      .grid-image {
+        @include span(last 6 of 12 (gutter-override: 0));
+        order: 2;
+      }
+    }
+    &:nth-child(even) {
+      .grid-title {
+        @include span(last 6 of 12 (gutter-override: 0));
+        order: 2;
+      }
+      .grid-image {
+        @include span(6 of 12 (gutter-override: 0));
+        order: 1;
+      }
+    }
+
+    .grid-title,
+    .grid-image {
+      text-align: left;
+      font-weight: normal;
+      flex-grow: 1;
+    }
+    .media-image {
+      width: 100%;
+      display: block;
+    }
+
+    .grid-title {
+      padding: 20px;
+      font-size: 24px;
+    }
+  }
+  .section-history {
+    background-color: $lighter-grey;
+    $nav-dot: 16px;
+
+    .section-title {
+      text-align: center;
+      margin-top: 0;
+    }
+
+    .history-nav {
+      position: relative;
+      width: 80%;
+      margin: auto;
+      overflow: hidden;
+      &:before {
+        content: "";
+        display: block;
+        width: 100%;
+        position: absolute;
+        top: #{$nav-dot/2};
+        left: 0;
+        height: 1px;
+        background-color: black;
+
+      }
+      strong {
+        display: block;
+      }
+    }
+    .nav-item {
+      margin-top: 20px;
+      display: block;
+      &:before {
+        position: absolute;
+        display: block;
+        height: #{$nav-dot};
+        width: #{$nav-dot};
+        top: 0;
+
+        content: "";
+        border-radius: 20px;
+        background: black;
+
+      }
+      &:nth-child(2):before { left: calc(33.333333333333% - #{$nav-dot}); }
+      &:nth-child(3):before { left: calc(66.666666666666% - #{$nav-dot}); }
+
+      &:first-child {
+        float: left;
+        text-align: left;
+        &:before { left: 0; }
+      }
+      &:last-child  {
+        float: right;
+        text-align: right;
+        &:before { right: 0; }
+      }
+    }
+    .tagline {
+      clear: both;
+      font-style: italic;
+      margin: 22px auto;
+      font-size: 110%;
+      text-align: center;
+    }
+  }
+  .section-map {
+    color: $white;
+    .map-address {
+      border-radius: 20px;
+      background-color: transparentize($grey-green, .3);
+      width: 35%;
+      max-width: 235px;
+      padding: 10px 25px;
+      margin: auto;
+    }
+  }
+  .section-contact {
+    .wrapper {
+      padding: $gutter;
+      color: $white;
+      background-color: $grey-green;
+      text-align: center;
+    }
+  }
+}
+
+.section-footer {
+  background-color: map-get($main-footer, background);
+  border-top: 1px solid $grey-green;
+  .nav-items {
+    overflow: hidden;
+    display: block;
+    clear: both;
+    padding: 4px 0;
+  }
+  .nav-item {
+    font-size: 24px;
+    line-height: 1;
+    float: left;
+    display: block;
+    margin-left: 15px;
+    padding-left: 15px;
+    border-left: 1px solid $black;
+    &:first-child {
+      margin-left: 0;
+      padding-left: 0;
+      border-left: 0;
+    }
+  }
+  .footer-end {
+    background-color: $white;
+    border-top: 1px solid $grey-green;
+    font-size: 24px;
+    line-height: 1.5;
+    padding: 28px $gutter;
+    p { margin: 0; }
+  }
+  .back-to-top { float: right; }
 }

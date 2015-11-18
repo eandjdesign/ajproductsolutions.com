@@ -4,54 +4,49 @@
     <meta charset="utf-8">
     <title>AJ Product Solutions</title>
     <link rel="stylesheet" href="/assets/css/main.css">
-    <!-- <script src="https://use.typekit.net/lkj1dmn.js"></script>
-    <script>try{Typekit.load({ async: true });}catch(e){}</script> -->
   </head>
   <body>
     <header class="main-header">
-      <div class="container">
-        <h1 class="page-title">AJ Product Solutions</h1>
-        <div class="nav-wrapper">
-          <div class="nav-meta">
-            <span class="icon-phone nav-phone">408-400-9501</span>
-            <a href="#" class="btn-outline" title="Contact us">Contact</a>
-          </div>
-          <nav class="main-nav">
-            <ul class="nav-items">
-              <li class="nav-item"><a href="#" class="nav-link" title="Learn about our Services">Services</a></li>
-              <li class="nav-item"><a href="#" class="nav-link" title="Learn about us">About</a></li>
-              <li class="nav-item"><a href="#" class="nav-link" title="AJ Case Studies">Case Studies</a></li>
-              <li class="nav-item"><a href="#" class="nav-link" title="Read our blog">Blog</a></li>
-              <li class="nav-item"><a href="#" class="nav-link" title="Contact us">Contact</a></li>
-            </ul>
-          </nav>
-        </div>
-        <section class="header-video">
-          <img src="//placehold.it/640x480" class="hero-video" style="width: 100%;">
-          AJ Product Solutions &amp; Prototypes Plus
-        </section>
-        <nav class="header-nav">
-          <ol class="nav-items">
-            <li class="nav-item">
-              <a href="#" class="nav-link icon-rtv icon-alternate">RTV Molding Casting</a>
-            </li>
-            <li class="nav-item">
-              <a href="#" class="nav-link icon-cnc icon-alternate">CNC Machining</a>
-            </li>
-            <li class="nav-item">
-              <a href="#" class="nav-link icon-sla icon-alternate">SLA/SLS</a>
-            </li>
-            <li class="nav-item">
-              <a href="#" class="nav-link icon-production icon-alternate">Production Bridge</a>
-            </li>
-          </ol>
+      <div class="nav-wrapper">
+        <nav class="nav-main">
+          <ul class="nav-items">
+            <li class="nav-item"><a href="#" class="nav-link" title="Learn about our Services">Services</a></li>
+            <li class="nav-item"><a href="#" class="nav-link" title="Learn about us">About</a></li>
+            <li class="nav-item"><a href="#" class="nav-link" title="AJ Case Studies">Case Studies</a></li>
+            <li class="nav-item"><a href="#" class="nav-link" title="Read our blog">Blog</a></li>
+            <li class="nav-item"><a href="#" class="nav-link" title="Contact us">Contact</a></li>
+          </ul>
         </nav>
+        <div class="nav-meta">
+          <span class="icon-phone nav-phone">408-400-9501</span>
+          <a href="#" class="btn-outline" title="Contact us">Contact</a>
+        </div>
       </div>
+      <section class="header-video">
+        <img src="//placehold.it/640x480" class="hero-video" style="width: 100%;">
+        AJ Product Solutions &amp; Prototypes Plus
+      </section>
+      <nav class="nav-header">
+        <ol class="nav-items">
+          <li class="nav-item">
+            <a href="#" class="nav-link icon-rtv icon-alternate">RTV Molding Casting</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link icon-cnc icon-alternate">CNC Machining</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link icon-sla icon-alternate">SLA/SLS</a>
+          </li>
+          <li class="nav-item">
+            <a href="#" class="nav-link icon-production icon-alternate">Production Bridge</a>
+          </li>
+        </ol>
+      </nav>
     </header>
     <main class="main-content">
       <div class="container">
-        <section class="section-blog">
-          <h1 class="section-headline">Blog</h1>
+        <div class="section-blog">
+          <h1 class="section-title">Blog</h1>
           <div class="grid">
             <h2 class="grid-title">
               <a href="#" class="title-link">Saving the day with bridge production parts</a>
@@ -84,8 +79,8 @@
               <img src="//placehold.it/300x300" class="media-image">
             </div>
           </div>
-        </section>
-        <section class="section-history">
+        </div>
+        <div class="section-history">
           <h1 class="section-headline">History</h1>
           <div class="wrapper">
             <h2 class="section-title">We started in a garage&hellip;</h2>
@@ -100,36 +95,50 @@
             <p class="tagline">We're big enough to handle your project but small enough to care.</p>
             <a href="#">Learn about our story</a>
           </div>
-        </section>
-        <section class="section-contact">
+        </div>
+        <div class="section-contact">
           <h1 class="section-headline">Contact</h1>
           <div class="wrapper">
             <h2 class="section-title">Let's Talk</h2>
             <p class="tagline">We love to talk shop, let's chat about your project</p>
-            {insert form here}
+            {{ insert form here }}
           </div>
-        </section>
+        </div>
+        <div class="section-map">
+          <h1 class="section-headline">Stop by our place</h1>
+          <aside class="map-address">
+            <div itemscope itemtype="http://schema.org/LocalBusiness">
+              <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <i class="icon icon-map--car"></i>
+                <span itemprop="streetAddress">1245 Birchwood Drive</span><br>
+                <span itemprop="addressLocality">Sunnyvale</span>,
+                <span itemprop="addressRegion">CA</span>,
+                <span itemprop="postalCode">94089</span>
+              </p>
+              <p itemprop="telephone">
+                <i class="icon icon-map--phone"></i>
+                408 400 9501
+              </p>
+            </div>
+          </aside>
+        </div>
       </div>
     </main>
-    <footer class="footer">
-      <h1 class="footer-title">A+J Product Solutions</h1>
-      <nav class="footer-nav">
-        <ol class="nav-items">
-          <li class="nav-item">
-            <a href="#" class="nav-link">Services</a>
-          </li>
-          <li class="nav-item">
-            <a href="#" class="nav-link">About</a>
-          </li>
-          <li class="nav-item">
-            <a href="#" class="nav-link">Case Studies</a>
-          </li>
-          <li class="nav-item">
-            <a href="#" class="nav-link">Blog</a>
-          </li>
-        </ol>
-      </nav>
-      <p class="copyright">&copy; A&J Product Solutions 2015</p>
+    <footer class="section-footer main-footer">
+      <div class="container">
+        <div class="wrapper">
+          <h1 class="section-headline">A+J Product Solutions</h1>
+          <nav class="footer-nav">
+            <ol class="nav-items">
+              <li class="nav-item"><a href="#" class="nav-link">Services</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">About</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">Case Studies</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
+            </ol>
+          </nav>
+          <p class="copyright">&copy; A&amp;J Product Solutions 2015</p>
+        </div>
+      </div>
       <aside class="footer-end">
         <p>
           The End

@@ -8,6 +8,12 @@ $lighter-grey: rgba(247, 247, 247, 1);  // #f7f7f7
 $light-grey:   rgba(241, 241, 241, 1);  // #f1f1f1
 $grey-green:   rgba(62, 73, 73, 1);     // #3e4949
 $black:        rgba(0, 0, 0, 1);        // #000000
+$purpley-grey: rgba(155, 154, 155, 1);  // #9b9a9b
+
+$main-footer: (
+  background: transparentize($purpley-grey, .86),
+  header-color: $black
+);
 
 $photo-filter: transparentize($grey-green, .7);
 $link:         $seafoam;
@@ -15,18 +21,20 @@ $color1:       $grey-green;
 
 $gutter: 20px;
 
-
-
 // ------------------------------------
 // Susy Gridding
 // ------------------------------------
+// How to combine Susy and Breakpoint:
+// http://www.sitepoint.com/creating-responsive-grid-system-susy-breakpoint/
+// ------------------------------------
+// demo
 $susy: (
+  container: 64em,
   columns: 12,
-  gutters: 1/4,
+  gutters: 1/6,
   math: fluid,
   output: float,
   gutter-position: after,
-  container: 1400px,
   global-box-sizing: border-box,
   debug: (
     image: show,
@@ -35,3 +43,5 @@ $susy: (
     toggle: bottom right,
   ),
 );
+$bp-medium: 32em;
+$bp-large: 60em;
