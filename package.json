@@ -20,10 +20,15 @@
   },
   "homepage": "https://github.com/eandjdesign/ajproductsolutions.com#readme",
   "dependencies": {
+    "breakpoint-sass": "^2.6.1",
     "gulp": "^3.9.0",
     "gulp-sass": "^2.0.4",
-    "gulp-sourcemaps": "^1.6.0",
-    "breakpoint-sass": "^2.6.1",
     "susy": "^2.2.6"
+  },
+  "devDependencies": {
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sourcemaps": "^1.6.0"
   }
 }

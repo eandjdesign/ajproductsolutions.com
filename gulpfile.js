@@ -1,39 +1,82 @@
 "use strict";
 
-var gulp = require('gulp');
-var sass = require('gulp-sass');
-var sourcemaps = require('gulp-sourcemaps');
+/*******************************************************************************
+1. DEPENDENCIES
+*******************************************************************************/
+var gulp = require('gulp'),                      // gulp core
+    sass = require('gulp-sass'),                 // sass compiler
+    notify = require('gulp-notify'),             // send notifications to osx
+    plumber = require('gulp-plumber'),           // disable interuption
+    sourcemaps = require('gulp-sourcemaps'),     // sass sourcemaps
+    livereload = require('gulp-livereload');//,     // reload on changes
+    // notifier_icon = path.join(__dirname, 'sites_d7/all/themes/custom/tesla_theme/assets/img/tesla-t-red.png');
 
 
+/*******************************************************************************
+2. FILE DESTINATIONS (RELATIVE TO ROOT OF INSTALL)
+*******************************************************************************/
+var target = {
+    theme_sass_src : './assets/scss/**/*.scss',
+    theme_css_dest : './assets/css',
+};
+
+
+/*******************************************************************************
+3. SASS TASK
+*******************************************************************************/
 gulp.task('sass', function() {
 
-  // gulp.src locates the source files for the process.
-  // This globbing function tells gulp to use all files
-  // ending with .scss or .sass within the scss folder
-  gulp.src('./assets/scss/**/*.scss')
+  var onError = function (error) {
+      var lineNumber = (error.line) ? 'LINE ' + error.line + ' -- ' : '';
 
-    // Initialize sourcemaps
-    .pipe(sourcemaps.init())
+      notify({
+          title: 'Jarvis',
+          subtitle: 'Your Task Failed [' + error.plugin + ']',
+          message: lineNumber + 'See console.',
+          //icon: notifier_icon,
+          sound: 'Sosumi'
+      }).write(error);
 
-    // Converts Sass into CSS with Gulp Sass
-    .pipe(sass({
+      // DO NOT REMOVE
+      // this will log the error to the terminal window as well
+      console.log(error);
 
-      // Log errors to console instead of stopping run command
-      errLogToConsole: true
-    }))
+      this.emit('end');
+  };
 
-    // Write the source maps
-    .pipe(sourcemaps.write())
+  gulp.src(target.theme_sass_src)             // get the files
 
-    // Outputs CSS files to the CSS folder
-    .pipe(gulp.dest('./assets/css'));
+      .pipe(plumber({                         // keep running on errors
+          errorHandler: onError
+      }))
+
+      .pipe(sourcemaps.init())                // initialize sourcemaps
+
+      .pipe(sass({                            // compile all sass :allthethings:
+          style: 'expanded',
+          debugInfo: true,
+          lineNumbers: true,
+          errLogToConsole: true
+          // includePaths: paths
+      }))
+
+      .pipe(sourcemaps.write())               // write the sourcemaps
+
+      .pipe(gulp.dest(target.theme_css_dest)) // where to put the file
+
+      .pipe(livereload());
+
 });
 
 // Watch scss folder for changes
 gulp.task('watch', function () {
-  // Watches the scss folder for all .scss and .sass files
-  // If any file changes, run the sass task
-  gulp.watch('./assets/scss/**/*.scss', ['sass'])
+
+    // watch for changes, and reload foo!
+    livereload.listen();
+
+    // Watches the scss folder for all .scss and .sass files
+    // If any file changes, run the sass task
+    gulp.watch(target.theme_sass_src, ['sass'])
 });
 
 // Create the default task
