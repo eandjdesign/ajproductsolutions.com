@@ -4,5 +4,5 @@ a&J.esproj/Project.espressostorage
 a&J.esproj/user.jcarleton.espressostorage
 *.sublime-workspace
 *.sublime-projectcompletions
-*/node_modules/*
+**/node_modules/**
 ajproject.sublime-workspace
