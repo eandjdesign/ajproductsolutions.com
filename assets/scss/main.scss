@@ -61,12 +61,24 @@
       width: 100%;
       font-size: 36px;
       position: relative;
+      @include susy-breakpoint($bp-large) {
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: flex-start;
+        align-content: center;
+        justify-content: center;
+      }
     }
     .nav-item {
       text-align: left;
       position: relative;
       border-top: 1px solid $lighter-grey;
       &:first-child { border-top: 0; }
+      @include susy-breakpoint($bp-large) {
+        display: flex;
+        border: 0;
+        text-align: center;
+      }
     }
     .nav-link {
       display: block;
@@ -82,7 +94,11 @@
         left: 0;
         line-height: 1;
         text-align: center;
-
+        @include susy-breakpoint($bp-large) {
+          display: block;
+          position: static;
+          margin: auto;
+        }
       }
       &:nth-child(1):before {}
       &:nth-child(2):before {}
@@ -137,7 +153,7 @@
     justify-content: center;
     background-color: $lighter-grey;
     &:nth-child(odd) {
-      .grid-title {
+      .grid-meta {
         @include span(6 of 12 (gutter-override: 0));
         order: 1;
       }
@@ -147,7 +163,7 @@
       }
     }
     &:nth-child(even) {
-      .grid-title {
+      .grid-meta {
         @include span(last 6 of 12 (gutter-override: 0));
         order: 2;
       }
@@ -156,8 +172,7 @@
         order: 1;
       }
     }
-
-    .grid-title,
+    .grid-meta,
     .grid-image {
       text-align: left;
       font-weight: normal;
@@ -167,10 +182,28 @@
       width: 100%;
       display: block;
     }
-
-    .grid-title {
+    .grid-meta {
       padding: 20px;
+      position: relative;
       font-size: 24px;
+    }
+    .grid-description { display: none; }
+
+    @include susy-breakpoint($bp-large) {
+      align-items: stretch;
+      .grid-title {
+        text-align: center;
+      }
+      .grid-description {
+        display: block;
+        position: absolute;
+        width: calc(100% - #{$gutter}*2);
+        bottom: 0;
+      }
+      .icon-clock {
+        display: inline-block;
+        float: right;
+      }
     }
   }
   .section-history {
