@@ -12,6 +12,17 @@ li {
   list-style-type: none;
 }
 
+img {
+  max-width: 100%;
+}
+
+figure,
+figcaption,
+.figure-image {
+  margin: 0;
+  padding: 0;
+}
+
 
 
 // ------------------------------------
@@ -21,4 +32,3 @@ a {
   color: $link;
   text-decoration: none;
 }
-
