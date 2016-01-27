@@ -154,6 +154,10 @@
         padding: $gutter;
         background-color: transparentize($white, .5);
         text-align: center;
+        display: none;
+        @include susy-breakpoint($bp-large) {
+          display: block;
+        }
       }
     }
   }

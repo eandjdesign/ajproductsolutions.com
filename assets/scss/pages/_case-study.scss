@@ -1,0 +1,30 @@
+.page-casestudy {
+  .main-content {
+    .section-headline,
+    .section-content {
+      background-color: $lighter-grey;
+    }
+  }
+  .section-headline {
+    // text-transform: inherit;
+  }
+
+  .nav-header {
+    position: relative;
+    .nav-items {
+      width: 100%;
+      position: absolute;
+      right: 0;
+      top: 0;
+      font-size: 24px;
+      line-height: 36px;
+    }
+    .nav-item {
+      text-align: right;
+    }
+    .nav-link {
+      padding: 0;
+      &:before { display: none; }
+    }
+  }
+}

@@ -23,6 +23,198 @@
 // Page-specific styles
 @import "pages/homepage";
 @import "pages/about";
+@import "pages/case-study";
 
 
 // TODO: create mixin for flex box things
+
+// ------------------------------------------------------------
+// -- Base Values
+// ------------------------------------------------------------
+// Change this to `false` to see all the different moving parts in view
+$dev-mode: false;
+
+
+// ------------------------------------------------------------
+// -- Maps
+// ------------------------------------------------------------
+// Base Animation Map
+$defaults-map: (
+  base-size:          20px,        // Base size everything is based on
+  animation-property: all,         // Animate everything by default
+  animation-duration: .3s,         // Default animation timing  is the same
+  animation-function: ease-in-out, // Default animation function
+  animation-delay:    '',          // Default to no delay on animations
+  opacity-to:         0.25,        // Cross hatch middle point
+  opacity-from:       1.00         // Cross hatch start and end
+);
+
+
+// ------------------------------------------------------------
+// -- Base Mixins
+// ------------------------------------------------------------
+@mixin transform($variables) {
+  -webkit-transform: $variables;
+          transform: $variables;
+}
+
+@mixin simple-transition($variables) {
+  -webkit-transition: #{$variables};
+          transition: #{$variables};
+}
+
+@mixin crosshatch-fade {
+  -webkit-animation: fade-transition ease-in-out map-get($defaults-map, animation-duration);
+          animation: fade-transition ease-in-out map-get($defaults-map, animation-duration);
+
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+}
+
+// ------------------------------
+// -- Keyframe Animations
+// ------------------------------
+@-webkit-keyframes fade-transition {
+  0%, 100% { opacity: map-get($defaults-map, opacity-from); }
+  50%      { opacity: map-get($defaults-map, opacity-to);   }
+}
+@keyframes fade-transition {
+  0%, 100% { opacity: map-get($defaults-map, opacity-from); }
+  50%      { opacity: map-get($defaults-map, opacity-to);   }
+}
+
+
+// ------------------------------
+// -- Styling
+// ------------------------------
+.navigation {
+  width: map-get($defaults-map, base-size);
+  height: map-get($defaults-map, base-size);
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  @if($dev-mode) {
+    background-color: red;
+  }
+  @else {
+    background-color: white;
+  }
+
+  &:before,
+  &:after {
+    top: 45%;
+    height: map-get($defaults-map, base-size) / 10;
+    display: block;
+    position: absolute;
+    content: " ";
+  }
+
+  &:before {
+    right: 15.5%;
+    width: map-get($defaults-map, base-size) / 10;
+    z-index: 20;
+    border-radius: map-get($defaults-map, base-size) / 10;
+
+    @if($dev-mode) {
+      background-color: green;
+    }
+    @else {
+      background-color: black;
+    }
+
+    @include simple-transition(
+      map-get($defaults-map, animation-property)
+      map-get($defaults-map, animation-duration)
+      map-get($defaults-map, animation-function)
+      map-get($defaults-map, animation-delay)
+    );
+  }
+  &:after {
+    right: 0;
+    width: 20%;
+    @if($dev-mode) {
+      background-color: purple;
+    }
+    @else {
+      background-color: white;
+    }
+
+    @include simple-transition(
+      map-get($defaults-map, animation-property)
+      map-get($defaults-map, animation-duration)
+      map-get($defaults-map, animation-function)
+      map-get($defaults-map, animation-delay)
+    );
+  }
+}
+.cross-hatch {
+  text-indent: -2000px; // arbitrarily large
+  left: 0;
+  top: 45%;
+  width: 100%;
+  height: map-get($defaults-map, base-size) / 10;
+  display: block;
+  position: absolute;
+  background-color: black;
+  content: " ";
+  border-radius: map-get($defaults-map, base-size) / 10;
+  &:before,
+  &:after {
+    left: 0;
+    width: 100%;
+    height: map-get($defaults-map, base-size) / 10;
+    display: block;
+    position: absolute;
+    @if($dev-mode) {
+      background-color: blue;
+    }
+    @else {
+      background-color: black;
+    }
+    content: " ";
+    z-index: 10;
+    border-radius: map-get($defaults-map, base-size) / 10;
+
+    /* @include fade-back; */
+    @include simple-transition(
+      map-get($defaults-map, animation-property)
+      map-get($defaults-map, animation-duration)
+      map-get($defaults-map, animation-function)
+      map-get($defaults-map, animation-delay)
+    );
+  }
+  &:before { top: -450%; }
+  &:after  { top: 450%;  }
+}
+.nav-opened {
+  .cross-hatch {
+    &:before,
+    &:after {
+      top: 0;
+      @include crosshatch-fade;
+      @include simple-transition(
+        map-get($defaults-map, animation-property)
+        map-get($defaults-map, animation-duration)
+        map-get($defaults-map, animation-function)
+        map-get($defaults-map, animation-delay)
+      );
+    }
+    &:before { @include transform(rotate(45deg));  }
+    &:after  { @include transform(rotate(-45deg)); }
+  }
+  .navigation {
+    &:before { right: 100%; }
+    &:after {
+      width: 100%;
+      @include simple-transition(
+        map-get($defaults-map, animation-property)
+        map-get($defaults-map, animation-duration)
+        map-get($defaults-map, animation-function)
+        map-get($defaults-map, animation-delay)
+      );
+    }
+  }
+}
