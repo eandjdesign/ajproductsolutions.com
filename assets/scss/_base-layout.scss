@@ -1,3 +1,11 @@
+@mixin animateMenu {
+  -webkit-transition: all .25s;
+     -moz-transition: all .25s;
+      -ms-transition: all .25s;
+       -o-transition: all .25s;
+          transition: all .25s;
+}
+
 // ------------------------------------
 // template theme design
 // ------------------------------------
@@ -9,6 +17,17 @@
 .main-header {
   background-color: $grey-green;
   width: 100%;
+  .nav-opened {
+    .nav-main {
+      margin-top: 0;
+      padding-left: 50px;
+      @include animateMenu;
+    }
+    .nav-icon {
+      color: $grey-green;
+      @include animateMenu;
+    }
+  }
   .nav-main,
   .nav-meta {
     width: 100%;
@@ -16,17 +35,8 @@
   }
   .nav-main {
     background-color: $white;
-    &:before {
-      content: "\d7";
-      display: block;
-      float: left;
-      padding: $gutter/2 $gutter;
-      margin-left: -$gutter;      // allowing for bigger click region
-      margin-top: -$gutter/2;     // allowing for bigger click region
-      cursor: pointer;
-      color: $grey-green;
-      font-weight: bold;
-    }
+    margin-top: -38px;
+    @include animateMenu;
   }
   .nav-meta {
     text-align: right;
@@ -85,6 +95,18 @@
   }
 }
 .nav-wrapper {
+  .nav-icon {
+    top: 0;
+    position: absolute;
+    z-index: 100;
+    padding: $gutter/2 $gutter;
+    margin-left: 0;
+    margin-top: 0;
+    cursor: pointer;
+    color: $white;
+    font-weight: bold;
+    font-style: normal;
+  }
   .nav-item {
     display: inline-block;
     margin-left: 3px;
