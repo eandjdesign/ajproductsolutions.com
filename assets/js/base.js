@@ -13,7 +13,5 @@ $(document).ready(function() {
     var $this = $(this);
 
     $this.parent().toggleClass('nav-opened');
-
-    console.log($this.next().height() + 20);
   });
 });
