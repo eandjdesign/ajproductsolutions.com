@@ -46,3 +46,10 @@ $susy: (
 );
 $bp-medium: 32em;
 $bp-large: 60em;
+
+
+// font stacks
+$fonts-base:      Helvetica, Arial, sans-serif;
+$fonts-primary:   'proxima-nova', $fonts-base;
+$fonts-secondary: $fonts-base;
+$fonts-monospace: 'Menlo', 'Monaco', 'Courier New', monospace;

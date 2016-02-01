@@ -6,6 +6,13 @@
           transition: all .25s;
 }
 
+
+body {
+  font-family: $fonts-base;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $fonts-primary;
+}
 // ------------------------------------
 // template theme design
 // ------------------------------------
@@ -35,6 +42,7 @@
   .nav-header {
     width: 100%;
     .nav-items {
+      font-family: $fonts-primary;
       width: 100%;
       font-size: 36px;
       position: relative;
