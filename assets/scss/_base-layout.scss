@@ -7,6 +7,65 @@
 }
 
 
+// Toggle Navigation icon
+// ------------------------------------------------------------
+// -- Base Values
+// ------------------------------------------------------------
+// Change this to `false` to see all the different moving parts in view
+$dev-mode: false;
+
+
+// ------------------------------------------------------------
+// -- Maps
+// ------------------------------------------------------------
+// Base Animation Map
+$defaults-map: (
+  base-size:          20px,        // Base size everything is based on
+  animation-property: all,         // Animate everything by default
+  animation-duration: .3s,         // Default animation timing  is the same
+  animation-function: ease-in-out, // Default animation function
+  animation-delay:    '',          // Default to no delay on animations
+  opacity-to:         0.25,        // Cross hatch middle point
+  opacity-from:       1.00         // Cross hatch start and end
+);
+
+
+// ------------------------------------------------------------
+// -- Base Mixins
+// ------------------------------------------------------------
+@mixin transform($variables) {
+  -webkit-transform: $variables;
+          transform: $variables;
+}
+
+@mixin simple-transition($variables) {
+  -webkit-transition: #{$variables};
+          transition: #{$variables};
+}
+
+@mixin crosshatch-fade {
+  -webkit-animation: fade-transition ease-in-out map-get($defaults-map, animation-duration);
+          animation: fade-transition ease-in-out map-get($defaults-map, animation-duration);
+
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+}
+
+// ------------------------------
+// -- Keyframe Animations
+// ------------------------------
+@-webkit-keyframes fade-transition {
+  0%, 100% { opacity: map-get($defaults-map, opacity-from); }
+  50%      { opacity: map-get($defaults-map, opacity-to);   }
+}
+@keyframes fade-transition {
+  0%, 100% { opacity: map-get($defaults-map, opacity-from); }
+  50%      { opacity: map-get($defaults-map, opacity-to);   }
+}
+
 body {
   font-family: $fonts-base;
 }
@@ -31,9 +90,8 @@ h1, h2, h3, h4, h5, h6 {
   }
   .nav-main {
     background-color: $white;
-    margin-top: -38px;
     padding-left: 50px;
-    @include animateMenu;
+    line-height: 1.5;
   }
   .nav-meta {
     text-align: right;
@@ -93,18 +151,29 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .nav-wrapper {
+  @include animateMenu;
+  transform: translateY(-140px);
+  position: absolute;
+  width: 100%;
+  background-color: $grey-green;
   .nav-item {
-    display: inline-block;
-    margin-left: 3px;
-    padding-left: 7px;
-    border-left: 1px solid $grey-green;
-    line-height: 1;
-    &:first-child {
-      margin-left: 0;
-      padding-left: 0;
-      border-left: 0;
+    @include susy-breakpoint($bp-large) {
+      display: inline-block;
+      margin-left: 3px;
+      padding-left: 7px;
+      border-left: 1px solid $grey-green;
+      line-height: 1;
+      &:first-child {
+        margin-left: 0;
+        padding-left: 0;
+        border-left: 0;
+      }
     }
   }
+}
+
+.header-video {
+  padding-top: 38px;
 }
 
 .section-headline {
@@ -376,67 +445,6 @@ h1, h2, h3, h4, h5, h6 {
   .back-to-top { float: right; }
 }
 
-
-// Toggle Navigation icon
-// ------------------------------------------------------------
-// -- Base Values
-// ------------------------------------------------------------
-// Change this to `false` to see all the different moving parts in view
-$dev-mode: false;
-
-
-// ------------------------------------------------------------
-// -- Maps
-// ------------------------------------------------------------
-// Base Animation Map
-$defaults-map: (
-  base-size:          20px,        // Base size everything is based on
-  animation-property: all,         // Animate everything by default
-  animation-duration: .3s,         // Default animation timing  is the same
-  animation-function: ease-in-out, // Default animation function
-  animation-delay:    '',          // Default to no delay on animations
-  opacity-to:         0.25,        // Cross hatch middle point
-  opacity-from:       1.00         // Cross hatch start and end
-);
-
-
-// ------------------------------------------------------------
-// -- Base Mixins
-// ------------------------------------------------------------
-@mixin transform($variables) {
-  -webkit-transform: $variables;
-          transform: $variables;
-}
-
-@mixin simple-transition($variables) {
-  -webkit-transition: #{$variables};
-          transition: #{$variables};
-}
-
-@mixin crosshatch-fade {
-  -webkit-animation: fade-transition ease-in-out map-get($defaults-map, animation-duration);
-          animation: fade-transition ease-in-out map-get($defaults-map, animation-duration);
-
-  -webkit-animation-iteration-count: 1;
-          animation-iteration-count: 1;
-
-  -webkit-transform-origin: 50% 50%;
-          transform-origin: 50% 50%;
-}
-
-// ------------------------------
-// -- Keyframe Animations
-// ------------------------------
-@-webkit-keyframes fade-transition {
-  0%, 100% { opacity: map-get($defaults-map, opacity-from); }
-  50%      { opacity: map-get($defaults-map, opacity-to);   }
-}
-@keyframes fade-transition {
-  0%, 100% { opacity: map-get($defaults-map, opacity-from); }
-  50%      { opacity: map-get($defaults-map, opacity-to);   }
-}
-
-
 // ------------------------------
 // -- Styling
 // ------------------------------
@@ -448,6 +456,7 @@ $defaults-map: (
   margin-left: 15px;
   overflow: hidden;
   position: absolute;
+  z-index: 100;
   cursor: pointer;
   @if($dev-mode) {
     background-color: red;
@@ -543,6 +552,10 @@ $defaults-map: (
   &:after  { top: 450%;  }
 }
 .nav-opened {
+  .nav-wrapper {
+    transform: translateY(0);
+    @include animateMenu;
+  }
   .cross-hatch {
     &:before,
     &:after {
@@ -573,7 +586,5 @@ $defaults-map: (
     }
   }
   .nav-main {
-    margin-top: 0;
-    @include animateMenu;
   }
 }

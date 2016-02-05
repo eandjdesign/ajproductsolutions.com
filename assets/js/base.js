@@ -1,4 +1,5 @@
 $(document).ready(function() {
+
   $('.accordion').on('click', '.section-headline', function() {
     var $this = $(this),
         parentSlide = $this.closest('.accordion-slide'),
@@ -10,8 +11,9 @@ $(document).ready(function() {
   });
 
   $('.main-header').on('click', '.nav-icon', function() {
-    var $this = $(this);
+    var $this = $(this),
+        myParent = $this.parent();
 
-    $this.parent().toggleClass('nav-opened');
+    myParent.toggleClass('nav-opened');
   });
 });
