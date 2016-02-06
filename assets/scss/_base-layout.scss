@@ -96,6 +96,11 @@ h1, h2, h3, h4, h5, h6 {
   .nav-meta {
     text-align: right;
     color: $white;
+    .icon-phone:before {
+      position: relative;
+      top: 3px;
+      padding-right: 10px;
+    }
   }
   .nav-header {
     width: 100%;
@@ -125,34 +130,36 @@ h1, h2, h3, h4, h5, h6 {
     }
     .nav-link {
       display: block;
-      padding: $gutter $gutter $gutter $gutter*2;
+      padding: $gutter $gutter $gutter $gutter*4;
+      @include susy-breakpoint($bp-large) {
+        padding-top: $gutter*2;
+      }
       &:before {
         color: white;
         font-size: 40px;
-        content: "x";
         display: block;
         width: 40px;
         position: absolute;
         top: 17px;
-        left: 0;
+        left: $gutter;
         line-height: 1;
         text-align: center;
+        margin-right: $gutter;
         @include susy-breakpoint($bp-large) {
           display: block;
           position: static;
-          margin: auto;
+          margin: -20px auto 20px;
         }
       }
-      &:nth-child(1):before {}
-      &:nth-child(2):before {}
-      &:nth-child(3):before {}
-      &:nth-child(4):before {}
     }
   }
 }
 .nav-wrapper {
   @include animateMenu;
   transform: translateY(-140px);
+  @include susy-breakpoint($bp-large) {
+    transform: translateY(-44px);
+  }
   position: absolute;
   width: 100%;
   background-color: $grey-green;
@@ -312,75 +319,13 @@ h1, h2, h3, h4, h5, h6 {
         bottom: 0;
       }
       .icon-clock {
-        display: inline-block;
         float: right;
+        &:before {
+          position: relative;
+          top: 3px;
+          padding-right: 10px;
+        }
       }
-    }
-  }
-  .section-history {
-    background-color: $lighter-grey;
-    $nav-dot: 16px;
-
-    .section-title {
-      text-align: center;
-      margin-top: 0;
-    }
-
-    .history-nav {
-      position: relative;
-      width: 80%;
-      margin: auto;
-      overflow: hidden;
-      &:before {
-        content: "";
-        display: block;
-        width: 100%;
-        position: absolute;
-        top: #{$nav-dot/2};
-        left: 0;
-        height: 1px;
-        background-color: black;
-
-      }
-      strong {
-        display: block;
-      }
-    }
-    .nav-item {
-      margin-top: 20px;
-      display: block;
-      &:before {
-        position: absolute;
-        display: block;
-        height: #{$nav-dot};
-        width: #{$nav-dot};
-        top: 0;
-
-        content: "";
-        border-radius: 20px;
-        background: black;
-
-      }
-      &:nth-child(2):before { left: calc(33.333333333333% - #{$nav-dot}); }
-      &:nth-child(3):before { left: calc(66.666666666666% - #{$nav-dot}); }
-
-      &:first-child {
-        float: left;
-        text-align: left;
-        &:before { left: 0; }
-      }
-      &:last-child  {
-        float: right;
-        text-align: right;
-        &:before { right: 0; }
-      }
-    }
-    .tagline {
-      clear: both;
-      font-style: italic;
-      margin: 22px auto;
-      font-size: 110%;
-      text-align: center;
     }
   }
   .section-map {

@@ -16,8 +16,11 @@ var gulp = require('gulp'),                      // gulp core
 2. FILE DESTINATIONS (RELATIVE TO ROOT OF INSTALL)
 *******************************************************************************/
 var target = {
-    theme_sass_src : './assets/scss/**/*.scss',
-    theme_css_dest : './assets/css',
+  theme_sass_src : './assets/scss/**/*.scss',
+  theme_css_dest : './assets/css',
+
+  font_sass_src  : './assets/fonts/**/*.scss',
+  font_css_dest  : './assets/fonts/',
 };
 
 
@@ -44,27 +47,50 @@ gulp.task('sass', function() {
       this.emit('end');
   };
 
-  gulp.src(target.theme_sass_src)             // get the files
+  // compile theme CSS
+  gulp.src(target.theme_sass_src)
 
-      .pipe(plumber({                         // keep running on errors
-          errorHandler: onError
-      }))
+    // keep running on errors
+    .pipe(plumber({ errorHandler: onError }))
 
-      .pipe(sourcemaps.init())                // initialize sourcemaps
+    // initialize sourcemaps
+    .pipe(sourcemaps.init())
 
-      .pipe(sass({                            // compile all sass :allthethings:
-          style: 'expanded',
-          debugInfo: true,
-          lineNumbers: true,
-          errLogToConsole: true
-          // includePaths: paths
-      }))
+    // compile all sass :allthethings:
+    .pipe(sass({
+      style: 'expanded',
+      debugInfo: true,
+      lineNumbers: true,
+      errLogToConsole: true
+    }))
 
-      .pipe(sourcemaps.write())               // write the sourcemaps
+    // write the sourcemaps
+    .pipe(sourcemaps.write())
 
-      .pipe(gulp.dest(target.theme_css_dest)) // where to put the file
+    // where to put the file
+    .pipe(gulp.dest(target.theme_css_dest))
 
-      .pipe(livereload());
+    .pipe(livereload());
+
+
+  // compile font CSS
+  gulp.src(target.font_sass_src)
+
+    // keep running on errors
+    .pipe(plumber({ errorHandler: onError }))
+
+    // compile all sass :allthethings:
+    .pipe(sass({
+      style: 'expanded',
+      debugInfo: true,
+      lineNumbers: true,
+      errLogToConsole: true
+    }))
+
+    // where to put the file
+    .pipe(gulp.dest(target.font_css_dest))
+
+    .pipe(livereload());
 
 });
 
@@ -77,6 +103,7 @@ gulp.task('watch', function () {
     // Watches the scss folder for all .scss and .sass files
     // If any file changes, run the sass task
     gulp.watch(target.theme_sass_src, ['sass'])
+    gulp.watch(target.font_sass_src, ['sass'])
 });
 
 // Create the default task

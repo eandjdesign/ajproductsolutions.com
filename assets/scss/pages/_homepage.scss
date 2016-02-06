@@ -19,20 +19,25 @@
       position: relative;
       width: 80%;
       margin: auto;
-      overflow: hidden;
+      padding-top: 40px;
       &:before {
         content: "";
         display: block;
         width: 100%;
         position: absolute;
-        top: #{$nav-dot/2};
+        top: #{($nav-dot/2)+50px};
         left: 0;
         height: 1px;
         background-color: black;
-
       }
       strong {
         display: block;
+        &:before {
+          display: block;
+          font-size: 3rem;
+          position: absolute;
+          top: -10px;
+        }
       }
     }
     .nav-item {
@@ -43,12 +48,10 @@
         display: block;
         height: #{$nav-dot};
         width: #{$nav-dot};
-        top: 0;
-
+        top: 50px;
         content: "";
         border-radius: 20px;
         background: black;
-
       }
       &:nth-child(2):before { left: calc(33.333333333333% - #{$nav-dot}); }
       &:nth-child(3):before { left: calc(66.666666666666% - #{$nav-dot}); }
@@ -57,17 +60,23 @@
         float: left;
         text-align: left;
         &:before { left: 0; }
+        strong:before {
+          left: -17px;
+        }
       }
       &:last-child  {
         float: right;
         text-align: right;
         &:before { right: 0; }
+        strong:before {
+          right: -17px;
+        }
       }
     }
     .tagline {
       clear: both;
       font-style: italic;
-      margin: 22px auto;
+      padding: 22px 0;
       font-size: 110%;
       text-align: center;
     }
