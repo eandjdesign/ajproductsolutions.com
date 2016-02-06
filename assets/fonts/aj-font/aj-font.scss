@@ -27,9 +27,7 @@
   }
 }
 
-[data-icon]:before {
-  content: attr(data-icon);
-}
+[data-icon]:before { content: attr(data-icon); }
 
 .icon-clock:before    { content: "\61"; }
 .icon-arrow:before    { content: "\62"; }
