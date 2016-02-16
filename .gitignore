@@ -1,9 +1,3 @@
-roject.espressostorage
-user.jcarleton.espressostorage
-a&J.esproj/Project.espressostorage
-a&J.esproj/user.jcarleton.espressostorage
-*.sublime-workspace
-*.sublime-projectcompletions
-**/node_modules/**
-ajproject.sublime-workspace
-**/css/**
+_site
+.sass-cache
+.jekyll-metadata
