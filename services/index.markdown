@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Services"
 date:   2016-02-15 22:05:16 -0800
 classes: page-services page-secondary
