@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title:  "About"
 date:   2016-02-20 22:58:00 -0800
 classes: page-about page-secondary

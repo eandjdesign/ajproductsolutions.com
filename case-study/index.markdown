@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: case-studies
 title:  "Services"
 date:   2016-02-15 22:05:16 -0800
 classes: page-casestudy page-secondary
