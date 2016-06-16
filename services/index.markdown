@@ -5,6 +5,12 @@ date:   2016-02-15 22:05:16 -0800
 classes: page-services page-secondary
 ---
 <div class="section-content">
+	<p>Our services are based on your needs. First, we ask you about the purpose of your prototype and its usability requirements. Then, we recommend a prototyping or low-volume manufacturing solution that balances your quality and performance needs with your budget and time constraints. From one part to several hundred parts, we have the capability and bandwidth to handle your requests.
+	<a href="#">Download our PDF Line Card</a>
+	</p>
+	<h2>Customized Solutions</h2>
+	<p>At A+J, we are focused on customizing a solution to your prototyping or manufacturing need. Every project is a challenge with its own complexities. For every project, we craft a production process that best suits the successful fulfillment of its unique needs. Rush job? Tight tolerances? Two-color over-molding? We have a solution.
+	</p>
   <div class="accordion">
     <div class="accordion-slide" data-toggle="slide-open">
       <h1 class="section-headline">RTV Molding Casting</h1>
