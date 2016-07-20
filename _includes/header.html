@@ -17,9 +17,21 @@
     </div>
   </div>
   {% if page.url == "/" %}
-    <section class="header-video">
-      <img src="//placehold.it/640x480" class="hero-video" style="width: 100%;">
-      AJ Product Solutions &amp; Prototypes Plus
+    <section class="header-video" style="
+            width: auto;
+            height: auto;
+            z-index: -100;
+            background-size: cover; ">
+<img src="/assets/img/logo1hdr.png" style="position:absolute;
+	float:left;
+    margin-top:200px; margin-left:300px; 
+    z-index:300000;">
+              <video autoplay loop poster="" id="bgvid">
+          <source src="/assets/vid/06_1.mp4" type="video/mp4">
+
+      </video>
+      <!--<img src="//placehold.it/640x480" class="hero-video" style="width: 100%;">-->
+      Our Story
     </section>
     <nav class="nav-header">
       <ol class="nav-items">
@@ -28,9 +40,6 @@
         </li>
         <li class="nav-item">
           <a href="#" class="nav-link icon-machine icon-alternate">CNC Machining</a>
-        </li>
-        <li class="nav-item">
-          <a href="#" class="nav-link icon-stereo icon-alternate">SLA/SLS</a>
         </li>
         <li class="nav-item">
           <a href="#" class="nav-link icon-bridge icon-alternate">Production Bridge</a>

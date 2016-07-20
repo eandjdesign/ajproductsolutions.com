@@ -8,6 +8,16 @@
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
     <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
     <script src="/assets/js/base.js"></script>
+    <style>
+    video#bgvid { 
+        min-width: 100%;
+        max-height: 800px;
+		-height: 100%;
+        width: auto;
+        height: auto;
+        z-index: -100;
+            }
+    </style>
   </head>
   <body>
     <header class="main-header">
@@ -30,8 +40,11 @@
         </div>
       </div>
       <section class="header-video">
-        <img src="//placehold.it/640x480" class="hero-video" style="width: 100%;">
-        AJ Product Solutions &amp; Prototypes Plus
+        <video autoplay loop poster="" id="bgvid">
+            <source src="/assets/vid/06_1.mp4" type="video/mp4">
+        </video>
+        <!--<img src="//placehold.it/640x480" class="hero-video" style="width: 100%;">-->
+        A&amp;J Product Solutions - Prototypes Plus
       </section>
       <nav class="nav-header">
         <ol class="nav-items">
